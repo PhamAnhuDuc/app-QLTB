@@ -1,0 +1,199 @@
+{
+ "cacBuoc": [
+  {
+   "buoc": "1. Sửa donGiaPoint 50.000 → 60.000 (số liệu đã tính lại, chưa ghi ra KetQua)",
+   "ketQua": {
+    "daLuu": true,
+    "lyDo": [],
+    "canhBao": [],
+    "coMoHinh": true
+   },
+   "tongTeam": 77190600,
+   "tabDuocGhi": [
+    "CH_ThamSo",
+    "NhatKyHeThong"
+   ],
+   "kyTuDo": true
+  },
+  {
+   "buoc": "2. Ô số chứa chữ: bị từ chối, không ghi gì",
+   "ketQua": {
+    "daLuu": false,
+    "lyDo": [
+     "O_SO_SAI"
+    ],
+    "canhBao": [],
+    "coMoHinh": false
+   },
+   "soThaoTacGhi": 0
+  },
+  {
+   "buoc": "3. Hệ số chia bảo hành lệch tổng: bị từ chối",
+   "ketQua": {
+    "daLuu": false,
+    "lyDo": [
+     "TONG_HE_SO"
+    ],
+    "canhBao": [],
+    "coMoHinh": false
+   },
+   "soThaoTacGhi": 0
+  },
+  {
+   "buoc": "4. Nhập báo cáo khu vực HN (dán văn bản)",
+   "ketQua": {
+    "daLuu": true,
+    "lyDo": [],
+    "canhBao": [],
+    "coMoHinh": true
+   },
+   "tabDuocGhi": [
+    "KiemKe_HN",
+    "NhatKyHeThong"
+   ]
+  },
+  {
+   "buoc": "5. Báo cáo thiếu cột SL chuyển kho: bị từ chối",
+   "ketQua": {
+    "daLuu": false,
+    "lyDo": [
+     "THIEU_COT"
+    ],
+    "canhBao": [],
+    "coMoHinh": false
+   },
+   "soThaoTacGhi": 0
+  },
+  {
+   "buoc": "6. Khu vực không có trong cấu hình: bị từ chối",
+   "ketQua": {
+    "daLuu": false,
+    "lyDo": [
+     "KHU_VUC_LA"
+    ],
+    "canhBao": [],
+    "coMoHinh": false
+   }
+  },
+  {
+   "buoc": "7. Đặt kỳ 2026-10",
+   "ketQua": {
+    "daLuu": true,
+    "lyDo": [],
+    "canhBao": [],
+    "coMoHinh": true
+   }
+  },
+  {
+   "buoc": "8. Đặt kỳ sai \"2026-13\"",
+   "ketQua": {
+    "daLuu": false,
+    "lyDo": [
+     "KY_SAI"
+    ],
+    "canhBao": [],
+    "coMoHinh": false
+   }
+  },
+  {
+   "buoc": "9. Khôi phục mặc định bảng bậc",
+   "ketQua": {
+    "daLuu": true,
+    "lyDo": [],
+    "canhBao": [],
+    "coMoHinh": true
+   }
+  },
+  {
+   "buoc": "10. Khôi phục mặc định bảng thành viên: bị từ chối",
+   "ketQua": {
+    "daLuu": false,
+    "lyDo": [
+     "KHONG_CO_MAC_DINH"
+    ],
+    "canhBao": [],
+    "coMoHinh": false
+   }
+  },
+  {
+   "buoc": "11. Duyệt kỳ (đã sửa dữ liệu ở các bước trên)",
+   "ketQua": {
+    "daLuu": true,
+    "lyDo": [],
+    "canhBao": [],
+    "coMoHinh": false
+   }
+  },
+  {
+   "buoc": "12. Kỳ đã chốt: bảng nhập tay bị từ chối",
+   "ketQua": {
+    "daLuu": false,
+    "lyDo": [
+     "KY_DA_CHOT"
+    ],
+    "canhBao": [],
+    "coMoHinh": false
+   }
+  },
+  {
+   "buoc": "13. Kỳ đã chốt: bảng cấu hình vẫn lưu được kèm cảnh báo",
+   "ketQua": {
+    "daLuu": true,
+    "lyDo": [],
+    "canhBao": [
+     "KY_DA_CHOT_SUA_CAU_HINH"
+    ],
+    "coMoHinh": true
+   }
+  },
+  {
+   "buoc": "14. Tên thành viên bắt đầu bằng \"=\": lưu thành chữ, không thành công thức",
+   "ketQua": {
+    "daLuu": true,
+    "lyDo": [],
+    "canhBao": [
+     "KY_DA_CHOT_SUA_CAU_HINH"
+    ],
+    "coMoHinh": true
+   }
+  }
+ ],
+ "cuoi": {
+  "nhatKyHeThongCacMa": [
+   "SUA_BANG_CAU_HINH",
+   "NHAP_BAO_CAO",
+   "DAT_KY",
+   "KHOI_PHUC_MAC_DINH",
+   "DAT_KY",
+   "BAO_CAO_THIEU_NGAY",
+   "POINT_CAT_TRAN",
+   "POINT_DUOI_MIN",
+   "POINT_DUOI_MIN",
+   "POINT_DUOI_MIN",
+   "GHI_DE_LUONG",
+   "GHI_DE_LUONG",
+   "POINT_CAT_TRAN",
+   "POINT_DUOI_MIN",
+   "BAO_CAO_THIEU_NGAY",
+   "POINT_CAT_TRAN",
+   "POINT_DUOI_MIN",
+   "POINT_DUOI_MIN",
+   "POINT_DUOI_MIN",
+   "GHI_DE_LUONG",
+   "GHI_DE_LUONG",
+   "POINT_CAT_TRAN",
+   "POINT_DUOI_MIN",
+   "KY_DA_CHOT",
+   "SUA_BANG_CAU_HINH",
+   "SUA_BANG_CAU_HINH"
+  ],
+  "nhatKyHeThongKhongLoNoiDung": true,
+  "oCongThucTrongTabSua": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "tenDauBangLuuThanhChu": true
+ }
+}

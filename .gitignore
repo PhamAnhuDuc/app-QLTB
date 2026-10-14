@@ -1,0 +1,20 @@
+# Secret và cấu hình chứa secret (chuẩn Sapo 2.4, 2.11)
+.env
+.env.*
+!.env.example
+.clasprc.json
+*.secret
+*.secret.*
+credentials*.json
+service-account*.json
+
+# Dữ liệu thật (Bảo mật, QĐ-02): tuyệt đối không commit
+Prototype/*.xlsx
+Prototype/*.xls
+Prototype/*.csv
+du-lieu-that/
+
+node_modules/
+
+# Mã Apps Script sinh tự động
+dist/

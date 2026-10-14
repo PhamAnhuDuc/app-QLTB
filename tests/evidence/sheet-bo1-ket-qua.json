@@ -1,0 +1,1160 @@
+{
+ "tomTat": {
+  "daGhi": true,
+  "tenTabKetQua": "KetQua",
+  "chanToanBo": false,
+  "kyDuDuLieu": true
+ },
+ "tabDaGhi": [
+  "GiaiThich",
+  "KetQua",
+  "NhatKyHeThong"
+ ],
+ "tabDauVaoKhongDoi": true,
+ "thongBao": [
+  "Đã tính xong (đủ dữ liệu). Xem tab KetQua. Kết quả là đề xuất chờ bạn duyệt."
+ ],
+ "KetQua": [
+  [
+   "Đề xuất – chờ duyệt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Kỳ",
+   "2026-09",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Trạng thái dữ liệu",
+   "Đủ dữ liệu",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Thời điểm tính",
+   "2026-10-14 08:00:00",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Nhóm",
+   "Thành viên",
+   "Bậc",
+   "Σ point",
+   "Min–Max",
+   "Point vượt",
+   "Điểm key metrics",
+   "% thưởng KM",
+   "Lương cố định",
+   "Thưởng KM",
+   "Thưởng vượt point",
+   "Phụ cấp",
+   "Thu nhập tạm tính",
+   "Trạng thái"
+  ],
+  [
+   "Đảm bảo an toàn thiết bị",
+   "Nhân viên A",
+   1,
+   278.92,
+   "120–150",
+   30,
+   1.01,
+   0.35,
+   6000000,
+   2100000,
+   1500000,
+   200000,
+   9800000,
+   "Đã tính"
+  ],
+  [
+   "Đảm bảo an toàn thiết bị",
+   "Nhân viên B",
+   4,
+   326.38,
+   "250–300",
+   50,
+   1.0125,
+   0.35,
+   10000000,
+   3500000,
+   2500000,
+   200000,
+   16200000,
+   "Đã tính"
+  ],
+  [
+   "Đảm bảo an toàn thiết bị",
+   "Nhân viên E",
+   4,
+   275.26,
+   "250–300",
+   25.26,
+   1.0125,
+   0.35,
+   10800000,
+   3780000,
+   1263000,
+   200000,
+   16043000,
+   "Đã tính"
+  ],
+  [
+   "Đảm bảo an toàn thiết bị",
+   "Nhân viên F",
+   1,
+   281.54,
+   "120–150",
+   30,
+   0.8642,
+   0.2,
+   6600000,
+   1320000,
+   1500000,
+   200000,
+   9620000,
+   "Đã tính"
+  ],
+  [
+   "Đảm bảo an toàn thiết bị",
+   "Nhân viên G",
+   3,
+   5,
+   "200–250",
+   0,
+   1.01,
+   0.35,
+   8500000,
+   2975000,
+   0,
+   0,
+   11475000,
+   "Đã tính"
+  ],
+  [
+   "Tổng nhóm: Đảm bảo an toàn thiết bị",
+   "cộng của 5/5 người",
+   "",
+   "",
+   "",
+   135.26,
+   "",
+   "",
+   41900000,
+   13675000,
+   6763000,
+   800000,
+   63138000,
+   ""
+  ],
+  [
+   "Quản lý kho",
+   "Nhân viên C",
+   4,
+   17,
+   "250–300",
+   0,
+   0.9791,
+   0.25,
+   10000000,
+   2500000,
+   0,
+   200000,
+   12700000,
+   "Đã tính"
+  ],
+  [
+   "Quản lý kho",
+   "Nhân viên D (chủ sở hữu)",
+   4,
+   5,
+   "250–300",
+   0,
+   "—",
+   "—",
+   10000000,
+   "—",
+   0,
+   "—",
+   "—",
+   "Không tính (chỉ theo dõi point)"
+  ],
+  [
+   "Tổng nhóm: Quản lý kho",
+   "cộng của 1/1 người",
+   "",
+   "",
+   "",
+   0,
+   "",
+   "",
+   10000000,
+   2500000,
+   0,
+   200000,
+   12700000,
+   ""
+  ],
+  [
+   "Tổng team",
+   "cộng của 6/6 người",
+   "",
+   "",
+   "",
+   135.26,
+   "",
+   "",
+   51900000,
+   16175000,
+   6763000,
+   1000000,
+   75838000,
+   ""
+  ],
+  [
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "LỖI (0)",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "CẢNH BÁO (8)",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Mức",
+   "Mã",
+   "Thông điệp",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "canhBao",
+   "POINT_CAT_TRAN",
+   "nva1 có point 278.92 vượt Max 150 của bậc 1, phần vượt chỉ tính đến Max",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "canhBao",
+   "POINT_CAT_TRAN",
+   "nvb2 có point 326.38 vượt Max 300 của bậc 4, phần vượt chỉ tính đến Max",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "thongTin",
+   "POINT_DUOI_MIN",
+   "nvc3 có point 17 thấp hơn Min 250, chỉ là thông tin, không trừ vào thu nhập",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "thongTin",
+   "POINT_DUOI_MIN",
+   "nvd4 có point 5 thấp hơn Min 250, chỉ là thông tin, không trừ vào thu nhập",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "canhBao",
+   "GHI_DE_LUONG",
+   "Lương cố định của nve5 đã ghi đè khác giá trị chuẩn của bậc 4",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "canhBao",
+   "GHI_DE_LUONG",
+   "Lương cố định của nvf6 đã ghi đè khác giá trị chuẩn của bậc 1",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "canhBao",
+   "POINT_CAT_TRAN",
+   "nvf6 có point 281.54 vượt Max 150 của bậc 1, phần vượt chỉ tính đến Max",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "thongTin",
+   "POINT_DUOI_MIN",
+   "nvg7 có point 5 thấp hơn Min 200, chỉ là thông tin, không trừ vào thu nhập",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "ĐỐI SOÁT",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Nguồn",
+   "Khu vực",
+   "Quỹ",
+   "Đã chia",
+   "Lệch",
+   "Kết quả",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "xuatBanChuyenKho",
+   "hn",
+   237.3,
+   237.3,
+   0,
+   "Đạt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "xuatBanChuyenKho",
+   "hcm",
+   203.8,
+   203.8,
+   0,
+   "Đạt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "baoHanh",
+   "hn",
+   300,
+   300,
+   0,
+   "Đạt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "baoHanh",
+   "hcm",
+   250,
+   250,
+   0,
+   "Đạt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "hoTroSale",
+   "hn",
+   68,
+   68,
+   0,
+   "Đạt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "hoTroSale",
+   "hcm",
+   102,
+   102,
+   0,
+   "Đạt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "quanLyKho",
+   "",
+   28,
+   28,
+   0,
+   "Đạt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ ],
+ "GiaiThich": [
+  [
+   "Thành viên",
+   "Bước",
+   "Nội dung"
+  ],
+  [
+   "Nhân viên A",
+   "point",
+   "Xuất bán / chuyển kho: 94.92 point"
+  ],
+  [
+   "Nhân viên A",
+   "point",
+   "Bảo hành: 150 point"
+  ],
+  [
+   "Nhân viên A",
+   "point",
+   "Hỗ trợ sale: 34 point"
+  ],
+  [
+   "Nhân viên A",
+   "point",
+   "Quản lý kho (nhật ký công việc): 0 point"
+  ],
+  [
+   "Nhân viên A",
+   "pointTong",
+   "Point tổng: 278.92"
+  ],
+  [
+   "Nhân viên A",
+   "minMax",
+   "Min–Max của bậc 1: 120–150"
+  ],
+  [
+   "Nhân viên A",
+   "pointVuot",
+   "Point vượt = min(point, Max) − Min, không âm = 30"
+  ],
+  [
+   "Nhân viên A",
+   "thuongVuot",
+   "Thưởng vượt point = 30 × 50000 = 1500000"
+  ],
+  [
+   "Nhân viên A",
+   "chiSo",
+   "tyLeBaoHanh: mục tiêu 0.033, kết quả 0.0329, %HT 100%, tỷ trọng 40%"
+  ],
+  [
+   "Nhân viên A",
+   "chiSo",
+   "tyLeHaiLong: mục tiêu 0.8, kết quả 0.846, %HT 100%, tỷ trọng 40%"
+  ],
+  [
+   "Nhân viên A",
+   "chiSo",
+   "doanhThu: mục tiêu 2000000000, kết quả 2100000000, %HT 105%, tỷ trọng 20%"
+  ],
+  [
+   "Nhân viên A",
+   "diemKM",
+   "Điểm key metrics = Σ tỷ trọng × %HT = 101% → thưởng 35%"
+  ],
+  [
+   "Nhân viên A",
+   "thuongKM",
+   "Thưởng key metrics = lương cố định 6000000 × 35% = 2100000"
+  ],
+  [
+   "Nhân viên A",
+   "phuCap",
+   "Phụ cấp: 200000"
+  ],
+  [
+   "Nhân viên A",
+   "thuNhap",
+   "Thu nhập = lương cố định + thưởng key metrics + thưởng vượt point + phụ cấp = 9800000"
+  ],
+  [
+   "Nhân viên B",
+   "point",
+   "Xuất bán / chuyển kho: 142.38 point"
+  ],
+  [
+   "Nhân viên B",
+   "point",
+   "Bảo hành: 150 point"
+  ],
+  [
+   "Nhân viên B",
+   "point",
+   "Hỗ trợ sale: 34 point"
+  ],
+  [
+   "Nhân viên B",
+   "point",
+   "Quản lý kho (nhật ký công việc): 0 point"
+  ],
+  [
+   "Nhân viên B",
+   "pointTong",
+   "Point tổng: 326.38"
+  ],
+  [
+   "Nhân viên B",
+   "minMax",
+   "Min–Max của bậc 4: 250–300"
+  ],
+  [
+   "Nhân viên B",
+   "pointVuot",
+   "Point vượt = min(point, Max) − Min, không âm = 50"
+  ],
+  [
+   "Nhân viên B",
+   "thuongVuot",
+   "Thưởng vượt point = 50 × 50000 = 2500000"
+  ],
+  [
+   "Nhân viên B",
+   "chiSo",
+   "tyLeBaoHanh: mục tiêu 0.033, kết quả 0.0329, %HT 100%, tỷ trọng 40%"
+  ],
+  [
+   "Nhân viên B",
+   "chiSo",
+   "tyLeHaiLong: mục tiêu 0.8, kết quả 0.846, %HT 100%, tỷ trọng 35%"
+  ],
+  [
+   "Nhân viên B",
+   "chiSo",
+   "doanhThu: mục tiêu 2000000000, kết quả 2100000000, %HT 105%, tỷ trọng 25%"
+  ],
+  [
+   "Nhân viên B",
+   "diemKM",
+   "Điểm key metrics = Σ tỷ trọng × %HT = 101.25% → thưởng 35%"
+  ],
+  [
+   "Nhân viên B",
+   "thuongKM",
+   "Thưởng key metrics = lương cố định 10000000 × 35% = 3500000"
+  ],
+  [
+   "Nhân viên B",
+   "phuCap",
+   "Phụ cấp: 200000"
+  ],
+  [
+   "Nhân viên B",
+   "thuNhap",
+   "Thu nhập = lương cố định + thưởng key metrics + thưởng vượt point + phụ cấp = 16200000"
+  ],
+  [
+   "Nhân viên C",
+   "point",
+   "Quản lý kho (nhật ký công việc): 17 point"
+  ],
+  [
+   "Nhân viên C",
+   "pointTong",
+   "Point tổng: 17"
+  ],
+  [
+   "Nhân viên C",
+   "minMax",
+   "Min–Max của bậc 4: 250–300"
+  ],
+  [
+   "Nhân viên C",
+   "pointVuot",
+   "Point vượt = min(point, Max) − Min, không âm = 0"
+  ],
+  [
+   "Nhân viên C",
+   "thuongVuot",
+   "Thưởng vượt point = 0 × 50000 = 0"
+  ],
+  [
+   "Nhân viên C",
+   "chiSo",
+   "vongQuayHTK: mục tiêu 21, kết quả 21.19, %HT 97.89%, tỷ trọng 80%"
+  ],
+  [
+   "Nhân viên C",
+   "chiSo",
+   "doanhThu: mục tiêu 2000000000, kết quả 1960000000, %HT 98%, tỷ trọng 20%"
+  ],
+  [
+   "Nhân viên C",
+   "diemKM",
+   "Điểm key metrics = Σ tỷ trọng × %HT = 97.91% → thưởng 25%"
+  ],
+  [
+   "Nhân viên C",
+   "thuongKM",
+   "Thưởng key metrics = lương cố định 10000000 × 25% = 2500000"
+  ],
+  [
+   "Nhân viên C",
+   "phuCap",
+   "Phụ cấp: 200000"
+  ],
+  [
+   "Nhân viên C",
+   "thuNhap",
+   "Thu nhập = lương cố định + thưởng key metrics + thưởng vượt point + phụ cấp = 12700000"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "point",
+   "Quản lý kho (nhật ký công việc): 5 point"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "pointTong",
+   "Point tổng: 5"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "minMax",
+   "Min–Max của bậc 4: 250–300"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "pointVuot",
+   "Point vượt = min(point, Max) − Min, không âm = 0"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "thuongVuot",
+   "Thưởng vượt point = 0 × 50000 = 0"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "thuNhap",
+   "Không tính thu nhập"
+  ],
+  [
+   "Nhân viên E",
+   "point",
+   "Xuất bán / chuyển kho: 142.66 point"
+  ],
+  [
+   "Nhân viên E",
+   "point",
+   "Bảo hành: 50 point"
+  ],
+  [
+   "Nhân viên E",
+   "point",
+   "Hỗ trợ sale: 81.6 point"
+  ],
+  [
+   "Nhân viên E",
+   "point",
+   "Quản lý kho (nhật ký công việc): 1 point"
+  ],
+  [
+   "Nhân viên E",
+   "pointTong",
+   "Point tổng: 275.26"
+  ],
+  [
+   "Nhân viên E",
+   "minMax",
+   "Min–Max của bậc 4: 250–300"
+  ],
+  [
+   "Nhân viên E",
+   "pointVuot",
+   "Point vượt = min(point, Max) − Min, không âm = 25.26"
+  ],
+  [
+   "Nhân viên E",
+   "thuongVuot",
+   "Thưởng vượt point = 25.26 × 50000 = 1263000"
+  ],
+  [
+   "Nhân viên E",
+   "chiSo",
+   "tyLeBaoHanh: mục tiêu 0.033, kết quả 0.0327, %HT 100%, tỷ trọng 35%"
+  ],
+  [
+   "Nhân viên E",
+   "chiSo",
+   "tyLeHaiLong: mục tiêu 0.8, kết quả 0.846, %HT 100%, tỷ trọng 40%"
+  ],
+  [
+   "Nhân viên E",
+   "chiSo",
+   "doanhThu: mục tiêu 2000000000, kết quả 2100000000, %HT 105%, tỷ trọng 25%"
+  ],
+  [
+   "Nhân viên E",
+   "diemKM",
+   "Điểm key metrics = Σ tỷ trọng × %HT = 101.25% → thưởng 35%"
+  ],
+  [
+   "Nhân viên E",
+   "thuongKM",
+   "Thưởng key metrics = lương cố định 10800000 × 35% = 3779999.9999999995"
+  ],
+  [
+   "Nhân viên E",
+   "phuCap",
+   "Phụ cấp: 200000"
+  ],
+  [
+   "Nhân viên E",
+   "thuNhap",
+   "Thu nhập = lương cố định + thưởng key metrics + thưởng vượt point + phụ cấp = 16043000"
+  ],
+  [
+   "Nhân viên F",
+   "point",
+   "Xuất bán / chuyển kho: 61.14 point"
+  ],
+  [
+   "Nhân viên F",
+   "point",
+   "Bảo hành: 200 point"
+  ],
+  [
+   "Nhân viên F",
+   "point",
+   "Hỗ trợ sale: 20.4 point"
+  ],
+  [
+   "Nhân viên F",
+   "point",
+   "Quản lý kho (nhật ký công việc): 0 point"
+  ],
+  [
+   "Nhân viên F",
+   "pointTong",
+   "Point tổng: 281.54"
+  ],
+  [
+   "Nhân viên F",
+   "minMax",
+   "Min–Max của bậc 1: 120–150"
+  ],
+  [
+   "Nhân viên F",
+   "pointVuot",
+   "Point vượt = min(point, Max) − Min, không âm = 30"
+  ],
+  [
+   "Nhân viên F",
+   "thuongVuot",
+   "Thưởng vượt point = 30 × 50000 = 1500000"
+  ],
+  [
+   "Nhân viên F",
+   "chiSo",
+   "tyLeBaoHanh: mục tiêu 0.033, kết quả 0.0327, %HT 100%, tỷ trọng 45%"
+  ],
+  [
+   "Nhân viên F",
+   "chiSo",
+   "tyLeHaiLong: mục tiêu 0.8, kết quả 0.7, %HT 58.33%, tỷ trọng 35%"
+  ],
+  [
+   "Nhân viên F",
+   "chiSo",
+   "doanhThu: mục tiêu 2000000000, kết quả 2100000000, %HT 105%, tỷ trọng 20%"
+  ],
+  [
+   "Nhân viên F",
+   "diemKM",
+   "Điểm key metrics = Σ tỷ trọng × %HT = 86.42% → thưởng 20%"
+  ],
+  [
+   "Nhân viên F",
+   "thuongKM",
+   "Thưởng key metrics = lương cố định 6600000 × 20% = 1320000"
+  ],
+  [
+   "Nhân viên F",
+   "phuCap",
+   "Phụ cấp: 200000"
+  ],
+  [
+   "Nhân viên F",
+   "thuNhap",
+   "Thu nhập = lương cố định + thưởng key metrics + thưởng vượt point + phụ cấp = 9620000"
+  ],
+  [
+   "Nhân viên G",
+   "point",
+   "Quản lý kho (nhật ký công việc): 5 point"
+  ],
+  [
+   "Nhân viên G",
+   "pointTong",
+   "Point tổng: 5"
+  ],
+  [
+   "Nhân viên G",
+   "minMax",
+   "Min–Max của bậc 3: 200–250"
+  ],
+  [
+   "Nhân viên G",
+   "pointVuot",
+   "Point vượt = min(point, Max) − Min, không âm = 0"
+  ],
+  [
+   "Nhân viên G",
+   "thuongVuot",
+   "Thưởng vượt point = 0 × 50000 = 0"
+  ],
+  [
+   "Nhân viên G",
+   "chiSo",
+   "tyLeBaoHanh: mục tiêu 0.033, kết quả 0.0327, %HT 100%, tỷ trọng 40%"
+  ],
+  [
+   "Nhân viên G",
+   "chiSo",
+   "tyLeHaiLong: mục tiêu 0.8, kết quả 0.846, %HT 100%, tỷ trọng 40%"
+  ],
+  [
+   "Nhân viên G",
+   "chiSo",
+   "doanhThu: mục tiêu 2000000000, kết quả 2100000000, %HT 105%, tỷ trọng 20%"
+  ],
+  [
+   "Nhân viên G",
+   "diemKM",
+   "Điểm key metrics = Σ tỷ trọng × %HT = 101% → thưởng 35%"
+  ],
+  [
+   "Nhân viên G",
+   "thuongKM",
+   "Thưởng key metrics = lương cố định 8500000 × 35% = 2975000"
+  ],
+  [
+   "Nhân viên G",
+   "phuCap",
+   "Phụ cấp: 0"
+  ],
+  [
+   "Nhân viên G",
+   "thuNhap",
+   "Thu nhập = lương cố định + thưởng key metrics + thưởng vượt point + phụ cấp = 11475000"
+  ]
+ ],
+ "NhatKyHeThong": [
+  [
+   "Thời điểm",
+   "Mức",
+   "Loại lỗi",
+   "Trường liên quan",
+   "Phạm vi"
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "canhBao",
+   "POINT_CAT_TRAN",
+   "",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "canhBao",
+   "POINT_CAT_TRAN",
+   "",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "thongTin",
+   "POINT_DUOI_MIN",
+   "",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "thongTin",
+   "POINT_DUOI_MIN",
+   "",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "canhBao",
+   "GHI_DE_LUONG",
+   "",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "canhBao",
+   "GHI_DE_LUONG",
+   "",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "canhBao",
+   "POINT_CAT_TRAN",
+   "",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "thongTin",
+   "POINT_DUOI_MIN",
+   "",
+   ""
+  ]
+ ]
+}

@@ -1,0 +1,342 @@
+{
+  "nhan": "Đề xuất – chờ duyệt",
+  "kyDuDuLieu": false,
+  "chanToanBo": false,
+  "soLoi": 8,
+  "soCanhBao": 5,
+  "loi": [
+    {
+      "ma": "TONG_TY_TRONG",
+      "phamViChan": "km:nvb2",
+      "thongDiep": "Tổng tỷ trọng của nvb2 là 90%, phải bằng 100%"
+    },
+    {
+      "ma": "TONG_HE_SO",
+      "phamViChan": "nguon:baoHanh:hcm",
+      "thongDiep": "Tổng hệ số chia của nguồn baoHanh ở khu vực hcm là 0.9, phải bằng 1"
+    },
+    {
+      "ma": "MA_HANG_LA",
+      "phamViChan": "nguon:xuatBanChuyenKho:hn",
+      "thongDiep": "Mã ABC-999 chưa có trong bảng quy đổi (khu vực HN, bán 3, chuyển kho 0)"
+    },
+    {
+      "ma": "BAO_CAO_CHUA_PHU_KY",
+      "phamViChan": "nguon:xuatBanChuyenKho:hcm",
+      "thongDiep": "Báo cáo kiểm kê khu vực HCM (2026-09-01 đến 2026-09-14) chưa phủ hết kỳ 2026-09-01 đến 2026-09-30. Cần chủ sở hữu xác nhận trước khi dùng"
+    },
+    {
+      "ma": "SO_LUONG_SAI",
+      "phamViChan": "nguon:baoHanh:hn",
+      "thongDiep": "Số ca bảo hành của khu vực HN phải là số không âm"
+    },
+    {
+      "ma": "TAI_KHOAN_LA",
+      "phamViChan": "doiSoat",
+      "thongDiep": "Dòng 10 của nhật ký công việc dùng tài khoản không có trong danh sách: khongco"
+    },
+    {
+      "ma": "LOAI_VIEC_LA",
+      "phamViChan": "qk:nvc3",
+      "thongDiep": "Dòng 11 của nhật ký (tài khoản nvc3): loại việc \"Việc lạ\" chưa có hệ số trong bảng quy đổi"
+    },
+    {
+      "ma": "MUC_TIEU_SAI",
+      "phamViChan": "km:nvc3",
+      "thongDiep": "Mục tiêu của chỉ số doanhThu (thành viên nvc3) phải lớn hơn 0"
+    }
+  ],
+  "canhBao": [
+    {
+      "muc": "canhBao",
+      "ma": "DONG_THIEU_MA",
+      "thongDiep": "Dòng 9 của báo cáo khu vực HN có phát sinh (bán 5, chuyển kho 0) nhưng thiếu mã hàng, không tính point"
+    },
+    {
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "thongDiep": "nvd4 có point 5 thấp hơn Min 250, chỉ là thông tin, không trừ vào thu nhập"
+    },
+    {
+      "muc": "canhBao",
+      "ma": "GHI_DE_LUONG",
+      "thongDiep": "Lương cố định của nve5 đã ghi đè khác giá trị chuẩn của bậc 4"
+    },
+    {
+      "muc": "canhBao",
+      "ma": "GHI_DE_LUONG",
+      "thongDiep": "Lương cố định của nvf6 đã ghi đè khác giá trị chuẩn của bậc 1"
+    },
+    {
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "thongDiep": "nvg7 có point 5 thấp hơn Min 200, chỉ là thông tin, không trừ vào thu nhập"
+    }
+  ],
+  "thanhVien": [
+    {
+      "taiKhoan": "nva1",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "chuaTinh",
+      "lyDo": [
+        "Point: thiếu",
+        "Key metrics: thiếu"
+      ],
+      "pointTong": null,
+      "pointVuot": null,
+      "diemKM": null,
+      "phanTramThuong": null,
+      "luongCoDinh": 6000000,
+      "thuongKM": null,
+      "thuongVuotPoint": null,
+      "phuCap": 200000,
+      "thuNhap": null
+    },
+    {
+      "taiKhoan": "nvb2",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "chuaTinh",
+      "lyDo": [
+        "Point: thiếu",
+        "Key metrics: bị chặn do lỗi"
+      ],
+      "pointTong": null,
+      "pointVuot": null,
+      "diemKM": null,
+      "phanTramThuong": null,
+      "luongCoDinh": 10000000,
+      "thuongKM": null,
+      "thuongVuotPoint": null,
+      "phuCap": 200000,
+      "thuNhap": null
+    },
+    {
+      "taiKhoan": "nvc3",
+      "nhom": "Quản lý kho",
+      "trangThai": "chuaTinh",
+      "lyDo": [
+        "Point: thiếu",
+        "Key metrics: bị chặn do lỗi"
+      ],
+      "pointTong": null,
+      "pointVuot": null,
+      "diemKM": null,
+      "phanTramThuong": null,
+      "luongCoDinh": 10000000,
+      "thuongKM": null,
+      "thuongVuotPoint": null,
+      "phuCap": 200000,
+      "thuNhap": null
+    },
+    {
+      "taiKhoan": "nvd4",
+      "nhom": "Quản lý kho",
+      "trangThai": "khongTinh",
+      "lyDo": [
+        "Theo dõi point: không có chỉ số key metrics, không tính thu nhập"
+      ],
+      "pointTong": 5,
+      "pointVuot": 0,
+      "diemKM": null,
+      "phanTramThuong": null,
+      "luongCoDinh": 10000000,
+      "thuongKM": null,
+      "thuongVuotPoint": 0,
+      "phuCap": null,
+      "thuNhap": null
+    },
+    {
+      "taiKhoan": "nve5",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "chuaTinh",
+      "lyDo": [
+        "Point: thiếu",
+        "Key metrics: thiếu"
+      ],
+      "pointTong": null,
+      "pointVuot": null,
+      "diemKM": null,
+      "phanTramThuong": null,
+      "luongCoDinh": 10800000,
+      "thuongKM": null,
+      "thuongVuotPoint": null,
+      "phuCap": 200000,
+      "thuNhap": null
+    },
+    {
+      "taiKhoan": "nvf6",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "chuaTinh",
+      "lyDo": [
+        "Point: thiếu"
+      ],
+      "pointTong": null,
+      "pointVuot": null,
+      "diemKM": 0.864166667,
+      "phanTramThuong": 0.2,
+      "luongCoDinh": 6600000,
+      "thuongKM": 1320000,
+      "thuongVuotPoint": null,
+      "phuCap": 200000,
+      "thuNhap": null
+    },
+    {
+      "taiKhoan": "nvg7",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "chuaTinh",
+      "lyDo": [
+        "Key metrics: thiếu"
+      ],
+      "pointTong": 5,
+      "pointVuot": 0,
+      "diemKM": null,
+      "phanTramThuong": null,
+      "luongCoDinh": 8500000,
+      "thuongKM": null,
+      "thuongVuotPoint": 0,
+      "phuCap": 0,
+      "thuNhap": null
+    }
+  ],
+  "tongTheoNhom": [
+    {
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "ghiChu": "cộng của 0/5 người",
+      "thuNhap": null
+    },
+    {
+      "nhom": "Quản lý kho",
+      "ghiChu": "cộng của 0/1 người",
+      "thuNhap": null
+    }
+  ],
+  "tongTeam": {
+    "ghiChu": "cộng của 0/6 người",
+    "thuNhap": null
+  },
+  "doiSoat": [
+    {
+      "nguon": "hoTroSale",
+      "khuVuc": "hn",
+      "quy": 68,
+      "daChia": 68,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "quanLyKho",
+      "khuVuc": null,
+      "quy": 11,
+      "daChia": 11,
+      "lech": 0,
+      "dat": true
+    }
+  ],
+  "log": [
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "loi",
+      "ma": "TONG_TY_TRONG",
+      "truong": [],
+      "phamVi": "km"
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "loi",
+      "ma": "TONG_HE_SO",
+      "truong": [
+        "nguon=baoHanh",
+        "khuVuc=hcm"
+      ],
+      "phamVi": "nguon"
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "loi",
+      "ma": "MA_HANG_LA",
+      "truong": [
+        "khuVuc=HN"
+      ],
+      "phamVi": "nguon"
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "loi",
+      "ma": "BAO_CAO_CHUA_PHU_KY",
+      "truong": [
+        "khuVuc=HCM"
+      ],
+      "phamVi": "nguon"
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "loi",
+      "ma": "SO_LUONG_SAI",
+      "truong": [
+        "nguon=baoHanh",
+        "khuVuc=HN"
+      ],
+      "phamVi": "nguon"
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "loi",
+      "ma": "TAI_KHOAN_LA",
+      "truong": [],
+      "phamVi": "doiSoat"
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "loi",
+      "ma": "LOAI_VIEC_LA",
+      "truong": [],
+      "phamVi": "qk"
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "loi",
+      "ma": "MUC_TIEU_SAI",
+      "truong": [
+        "chiSo=doanhThu"
+      ],
+      "phamVi": "km"
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "canhBao",
+      "ma": "DONG_THIEU_MA",
+      "truong": [
+        "khuVuc=HN"
+      ],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "canhBao",
+      "ma": "GHI_DE_LUONG",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "canhBao",
+      "ma": "GHI_DE_LUONG",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "truong": [],
+      "phamVi": null
+    }
+  ]
+}

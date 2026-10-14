@@ -1,0 +1,50 @@
+{
+ "ketQua": {
+  "daChot": false,
+  "lyDo": [
+   "DU_LIEU_CHUA_KHOP",
+   "KHONG_AI_TINH_DUOC"
+  ]
+ },
+ "soThaoTacGhi": 0,
+ "tabTruoc": [
+  "CH_ThamSo",
+  "CH_Bac",
+  "CH_BacThang",
+  "CH_ChiSo",
+  "CH_NhomThietBi",
+  "CH_MaHang",
+  "CH_ViecQuanLyKho",
+  "CH_HeSoChia",
+  "CH_KhuVuc",
+  "CH_ThanhVien",
+  "CH_TyTrong",
+  "Ky",
+  "BaoHanh_HoTroSale",
+  "XacNhanBaoCao",
+  "NhatKyCongViec",
+  "KeyMetrics",
+  "KiemKe_HN",
+  "KiemKe_HCM"
+ ],
+ "tabSau": [
+  "CH_ThamSo",
+  "CH_Bac",
+  "CH_BacThang",
+  "CH_ChiSo",
+  "CH_NhomThietBi",
+  "CH_MaHang",
+  "CH_ViecQuanLyKho",
+  "CH_HeSoChia",
+  "CH_KhuVuc",
+  "CH_ThanhVien",
+  "CH_TyTrong",
+  "Ky",
+  "BaoHanh_HoTroSale",
+  "XacNhanBaoCao",
+  "NhatKyCongViec",
+  "KeyMetrics",
+  "KiemKe_HN",
+  "KiemKe_HCM"
+ ]
+}

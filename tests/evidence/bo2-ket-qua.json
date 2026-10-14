@@ -1,0 +1,196 @@
+{
+  "nhan": "Đề xuất – chờ duyệt",
+  "kyDuDuLieu": true,
+  "chanToanBo": false,
+  "soLoi": 0,
+  "soCanhBao": 4,
+  "loi": [],
+  "canhBao": [
+    {
+      "muc": "canhBao",
+      "ma": "POINT_CAT_TRAN",
+      "thongDiep": "nvh8 có point 233.6 vượt Max 200 của bậc 2, phần vượt chỉ tính đến Max"
+    },
+    {
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "thongDiep": "nvi9 có point 49.6 thấp hơn Min 300, chỉ là thông tin, không trừ vào thu nhập"
+    },
+    {
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "thongDiep": "nvk10 có point 94.5 thấp hơn Min 200, chỉ là thông tin, không trừ vào thu nhập"
+    },
+    {
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "thongDiep": "nvl11 có point 50 thấp hơn Min 300, chỉ là thông tin, không trừ vào thu nhập"
+    }
+  ],
+  "thanhVien": [
+    {
+      "taiKhoan": "nvh8",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "daTinh",
+      "lyDo": [],
+      "pointTong": 233.6,
+      "pointVuot": 50,
+      "diemKM": 0.896969697,
+      "phanTramThuong": 0.2,
+      "luongCoDinh": 7500000,
+      "thuongKM": 1500000,
+      "thuongVuotPoint": 3000000,
+      "phuCap": 200000,
+      "thuNhap": 12200000
+    },
+    {
+      "taiKhoan": "nvi9",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "daTinh",
+      "lyDo": [],
+      "pointTong": 49.6,
+      "pointVuot": 0,
+      "diemKM": 0.71,
+      "phanTramThuong": 0.15,
+      "luongCoDinh": 12000000,
+      "thuongKM": 1800000,
+      "thuongVuotPoint": 0,
+      "phuCap": 0,
+      "thuNhap": 13800000
+    },
+    {
+      "taiKhoan": "nvk10",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "daTinh",
+      "lyDo": [],
+      "pointTong": 94.5,
+      "pointVuot": 0,
+      "diemKM": 0.125,
+      "phanTramThuong": 0,
+      "luongCoDinh": 8500000,
+      "thuongKM": 0,
+      "thuongVuotPoint": 0,
+      "phuCap": 200000,
+      "thuNhap": 8700000
+    },
+    {
+      "taiKhoan": "nvl11",
+      "nhom": "Quản lý kho",
+      "trangThai": "daTinh",
+      "lyDo": [],
+      "pointTong": 50,
+      "pointVuot": 0,
+      "diemKM": 0.651666667,
+      "phanTramThuong": 0,
+      "luongCoDinh": 12000000,
+      "thuongKM": 0,
+      "thuongVuotPoint": 0,
+      "phuCap": 0,
+      "thuNhap": 12000000
+    }
+  ],
+  "tongTheoNhom": [
+    {
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "ghiChu": "cộng của 3/3 người",
+      "thuNhap": 34700000
+    },
+    {
+      "nhom": "Quản lý kho",
+      "ghiChu": "cộng của 1/1 người",
+      "thuNhap": 12000000
+    }
+  ],
+  "tongTeam": {
+    "ghiChu": "cộng của 4/4 người",
+    "thuNhap": 46700000
+  },
+  "doiSoat": [
+    {
+      "nguon": "xuatBanChuyenKho",
+      "khuVuc": "hn",
+      "quy": 26.2,
+      "daChia": 26.2,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "xuatBanChuyenKho",
+      "khuVuc": "hcm",
+      "quy": 66,
+      "daChia": 66,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "baoHanh",
+      "khuVuc": "hn",
+      "quy": 40,
+      "daChia": 40,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "baoHanh",
+      "khuVuc": "hcm",
+      "quy": 20,
+      "daChia": 20,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "hoTroSale",
+      "khuVuc": "hn",
+      "quy": 17,
+      "daChia": 17,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "hoTroSale",
+      "khuVuc": "hcm",
+      "quy": 8.5,
+      "daChia": 8.5,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "quanLyKho",
+      "khuVuc": null,
+      "quy": 250,
+      "daChia": 250,
+      "lech": 0,
+      "dat": true
+    }
+  ],
+  "log": [
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "canhBao",
+      "ma": "POINT_CAT_TRAN",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "truong": [],
+      "phamVi": null
+    }
+  ]
+}

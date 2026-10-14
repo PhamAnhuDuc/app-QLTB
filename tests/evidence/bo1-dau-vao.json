@@ -1,0 +1,592 @@
+{
+  "_ghiChu": "DỮ LIỆU GIẢ. Bình thường: tháng 09/2026, đủ dữ liệu",
+  "cauHinh": {
+    "_ghiChu": "DỮ LIỆU GIẢ. Không có tên, tài khoản hay số lương thật.",
+    "thamSo": {
+      "donGiaPoint": 50000,
+      "phuCap": 200000,
+      "heSoHoTroSale": 0.17,
+      "pointMoiCaBaoHanh": 1,
+      "heSoMin": 0.7,
+      "tranDoanhThu": 1.2,
+      "saiSoDoiSoat": 0.01
+    },
+    "bac": [
+      {
+        "bac": 1,
+        "luongCoDinh": 6000000,
+        "min": 120,
+        "max": 150
+      },
+      {
+        "bac": 2,
+        "luongCoDinh": 7500000,
+        "min": 150,
+        "max": 200
+      },
+      {
+        "bac": 3,
+        "luongCoDinh": 8500000,
+        "min": 200,
+        "max": 250
+      },
+      {
+        "bac": 4,
+        "luongCoDinh": 10000000,
+        "min": 250,
+        "max": 300
+      },
+      {
+        "bac": 5,
+        "luongCoDinh": 12000000,
+        "min": 300,
+        "max": 350
+      }
+    ],
+    "bacThangThuong": [
+      {
+        "tu": 0,
+        "den": 0.7,
+        "phanTram": 0
+      },
+      {
+        "tu": 0.7,
+        "den": 0.8,
+        "phanTram": 0.15
+      },
+      {
+        "tu": 0.8,
+        "den": 0.9,
+        "phanTram": 0.2
+      },
+      {
+        "tu": 0.9,
+        "den": 1,
+        "phanTram": 0.25
+      },
+      {
+        "tu": 1,
+        "den": null,
+        "phanTram": 0.35
+      }
+    ],
+    "chiSo": [
+      {
+        "id": "vongQuayHTK",
+        "ten": "Thời gian vòng quay HTK",
+        "kieu": "thapTot"
+      },
+      {
+        "id": "tyLeBaoHanh",
+        "ten": "Tỷ lệ bảo hành",
+        "kieu": "thapTot"
+      },
+      {
+        "id": "tyLeHaiLong",
+        "ten": "Tỷ lệ hài lòng thiết bị",
+        "kieu": "caoTot"
+      },
+      {
+        "id": "doanhThu",
+        "ten": "Hoàn thành doanh thu",
+        "kieu": "doanhThu"
+      }
+    ],
+    "nhomThietBi": [
+      {
+        "nhom": "MBH S2",
+        "pointXuatBan": 0.67,
+        "pointChuyenKho": 0.75
+      },
+      {
+        "nhom": "Thiết bị BH",
+        "pointXuatBan": 0.3,
+        "pointChuyenKho": 0.33
+      },
+      {
+        "nhom": "Két tiền",
+        "pointXuatBan": 0.33,
+        "pointChuyenKho": 0.33
+      },
+      {
+        "nhom": "Giấy",
+        "pointXuatBan": 0.01,
+        "pointChuyenKho": 0.01
+      },
+      {
+        "nhom": "MBH Cầm tay",
+        "pointXuatBan": 0.58,
+        "pointChuyenKho": 0.58
+      }
+    ],
+    "maHang": [
+      {
+        "ma": "SP-001",
+        "nhom": "MBH S2"
+      },
+      {
+        "ma": "SP-002",
+        "nhom": "Thiết bị BH"
+      },
+      {
+        "ma": "SP-003",
+        "nhom": "Két tiền"
+      },
+      {
+        "ma": "SP-004",
+        "nhom": "Giấy"
+      },
+      {
+        "ma": "SP-006",
+        "nhom": "MBH cầm tay"
+      }
+    ],
+    "viecQuanLyKho": [
+      {
+        "loai": "Kiểm kho",
+        "heSo": 0.5
+      },
+      {
+        "loai": "Đầu mối 360",
+        "heSo": 1
+      },
+      {
+        "loai": "Quản lý sale admin tỉnh",
+        "heSo": 0.375
+      },
+      {
+        "loai": "Hỗ trợ kế toán",
+        "heSo": 0.5
+      }
+    ],
+    "heSoChia": [
+      {
+        "nguon": "xuatBanChuyenKho",
+        "khuVuc": "HN",
+        "taiKhoan": "nva1",
+        "heSo": 0.4
+      },
+      {
+        "nguon": "xuatBanChuyenKho",
+        "khuVuc": "HN",
+        "taiKhoan": "nvb2",
+        "heSo": 0.6
+      },
+      {
+        "nguon": "xuatBanChuyenKho",
+        "khuVuc": "HCM",
+        "taiKhoan": "nve5",
+        "heSo": 0.7
+      },
+      {
+        "nguon": "xuatBanChuyenKho",
+        "khuVuc": "HCM",
+        "taiKhoan": "nvf6",
+        "heSo": 0.3
+      },
+      {
+        "nguon": "baoHanh",
+        "khuVuc": "HN",
+        "taiKhoan": "nva1",
+        "heSo": 0.5
+      },
+      {
+        "nguon": "baoHanh",
+        "khuVuc": "HN",
+        "taiKhoan": "nvb2",
+        "heSo": 0.5
+      },
+      {
+        "nguon": "baoHanh",
+        "khuVuc": "HCM",
+        "taiKhoan": "nve5",
+        "heSo": 0.2
+      },
+      {
+        "nguon": "baoHanh",
+        "khuVuc": "HCM",
+        "taiKhoan": "nvf6",
+        "heSo": 0.8
+      },
+      {
+        "nguon": "hoTroSale",
+        "khuVuc": "HN",
+        "taiKhoan": "nva1",
+        "heSo": 0.5
+      },
+      {
+        "nguon": "hoTroSale",
+        "khuVuc": "HN",
+        "taiKhoan": "nvb2",
+        "heSo": 0.5
+      },
+      {
+        "nguon": "hoTroSale",
+        "khuVuc": "HCM",
+        "taiKhoan": "nve5",
+        "heSo": 0.8
+      },
+      {
+        "nguon": "hoTroSale",
+        "khuVuc": "HCM",
+        "taiKhoan": "nvf6",
+        "heSo": 0.2
+      }
+    ],
+    "thanhVien": [
+      {
+        "taiKhoan": "nva1",
+        "ten": "Nhân viên A",
+        "bac": 1,
+        "khuVuc": "HN",
+        "nhom": "Đảm bảo an toàn thiết bị",
+        "mayCaNhan": true,
+        "luongCoDinhGhiDe": null,
+        "chiSo": [
+          {
+            "chiSo": "tyLeBaoHanh",
+            "tyTrong": 0.4
+          },
+          {
+            "chiSo": "tyLeHaiLong",
+            "tyTrong": 0.4
+          },
+          {
+            "chiSo": "doanhThu",
+            "tyTrong": 0.2
+          }
+        ]
+      },
+      {
+        "taiKhoan": "nvb2",
+        "ten": "Nhân viên B",
+        "bac": 4,
+        "khuVuc": "HN",
+        "nhom": "Đảm bảo an toàn thiết bị",
+        "mayCaNhan": true,
+        "luongCoDinhGhiDe": null,
+        "chiSo": [
+          {
+            "chiSo": "tyLeBaoHanh",
+            "tyTrong": 0.4
+          },
+          {
+            "chiSo": "tyLeHaiLong",
+            "tyTrong": 0.35
+          },
+          {
+            "chiSo": "doanhThu",
+            "tyTrong": 0.25
+          }
+        ]
+      },
+      {
+        "taiKhoan": "nvc3",
+        "ten": "Nhân viên C",
+        "bac": 4,
+        "khuVuc": "HN",
+        "nhom": "Quản lý kho",
+        "mayCaNhan": true,
+        "luongCoDinhGhiDe": null,
+        "chiSo": [
+          {
+            "chiSo": "vongQuayHTK",
+            "tyTrong": 0.8
+          },
+          {
+            "chiSo": "doanhThu",
+            "tyTrong": 0.2
+          }
+        ]
+      },
+      {
+        "taiKhoan": "nvd4",
+        "ten": "Nhân viên D (chủ sở hữu)",
+        "bac": 4,
+        "khuVuc": "HN",
+        "nhom": "Quản lý kho",
+        "mayCaNhan": false,
+        "luongCoDinhGhiDe": null,
+        "chiSo": []
+      },
+      {
+        "taiKhoan": "nve5",
+        "ten": "Nhân viên E",
+        "bac": 4,
+        "khuVuc": "HCM",
+        "nhom": "Đảm bảo an toàn thiết bị",
+        "mayCaNhan": true,
+        "luongCoDinhGhiDe": 10800000,
+        "chiSo": [
+          {
+            "chiSo": "tyLeBaoHanh",
+            "tyTrong": 0.35
+          },
+          {
+            "chiSo": "tyLeHaiLong",
+            "tyTrong": 0.4
+          },
+          {
+            "chiSo": "doanhThu",
+            "tyTrong": 0.25
+          }
+        ]
+      },
+      {
+        "taiKhoan": "nvf6",
+        "ten": "Nhân viên F",
+        "bac": 1,
+        "khuVuc": "HCM",
+        "nhom": "Đảm bảo an toàn thiết bị",
+        "mayCaNhan": true,
+        "luongCoDinhGhiDe": 6600000,
+        "chiSo": [
+          {
+            "chiSo": "tyLeBaoHanh",
+            "tyTrong": 0.45
+          },
+          {
+            "chiSo": "tyLeHaiLong",
+            "tyTrong": 0.35
+          },
+          {
+            "chiSo": "doanhThu",
+            "tyTrong": 0.2
+          }
+        ]
+      },
+      {
+        "taiKhoan": "nvg7",
+        "ten": "Nhân viên G",
+        "bac": 3,
+        "khuVuc": "HCM",
+        "nhom": "Đảm bảo an toàn thiết bị",
+        "mayCaNhan": false,
+        "luongCoDinhGhiDe": null,
+        "chiSo": [
+          {
+            "chiSo": "tyLeBaoHanh",
+            "tyTrong": 0.4
+          },
+          {
+            "chiSo": "tyLeHaiLong",
+            "tyTrong": 0.4
+          },
+          {
+            "chiSo": "doanhThu",
+            "tyTrong": 0.2
+          }
+        ]
+      }
+    ]
+  },
+  "duLieuKy": {
+    "_ghiChu": "DỮ LIỆU GIẢ. Kỳ tháng 09/2026, đủ dữ liệu.",
+    "ky": {
+      "thang": "2026-09",
+      "tuNgay": "2026-09-01",
+      "denNgay": "2026-09-30"
+    },
+    "kiemKe": {
+      "HN": {
+        "tuNgay": "2026-09-01",
+        "denNgay": "2026-09-30",
+        "dong": [
+          {
+            "ma": "SP-001",
+            "ten": "Thiết bị mẫu 1",
+            "banRa": 100,
+            "chuyenKho": 50
+          },
+          {
+            "ma": "SP-002",
+            "ten": "Thiết bị mẫu 2",
+            "banRa": 200,
+            "chuyenKho": 100
+          },
+          {
+            "ma": "SP-003",
+            "ten": "Thiết bị mẫu 3",
+            "banRa": 40,
+            "chuyenKho": 0
+          },
+          {
+            "ma": "SP-004",
+            "ten": "Giấy mẫu",
+            "banRa": 1000,
+            "chuyenKho": 500
+          },
+          {
+            "ma": "SP-006",
+            "ten": "Thiết bị mẫu 6",
+            "banRa": 20,
+            "chuyenKho": 0
+          },
+          {
+            "ma": "SP-099",
+            "ten": "Thiết bị không phát sinh",
+            "banRa": 0,
+            "chuyenKho": 0
+          },
+          {
+            "ma": null,
+            "ten": "Thiết bị mẫu - Demo",
+            "banRa": 0,
+            "chuyenKho": 0
+          }
+        ]
+      },
+      "HCM": {
+        "tuNgay": "2026-09-01",
+        "denNgay": "2026-09-30",
+        "dong": [
+          {
+            "ma": "SP-001",
+            "ten": "Thiết bị mẫu 1",
+            "banRa": 60,
+            "chuyenKho": 20
+          },
+          {
+            "ma": "SP-002",
+            "ten": "Thiết bị mẫu 2",
+            "banRa": 120,
+            "chuyenKho": 80
+          },
+          {
+            "ma": "SP-003",
+            "ten": "Thiết bị mẫu 3",
+            "banRa": 50,
+            "chuyenKho": 50
+          },
+          {
+            "ma": "SP-004",
+            "ten": "Giấy mẫu",
+            "banRa": 2000,
+            "chuyenKho": 1000
+          },
+          {
+            "ma": "SP-006",
+            "ten": "Thiết bị mẫu 6",
+            "banRa": 30,
+            "chuyenKho": 10
+          }
+        ]
+      }
+    },
+    "baoHanh": {
+      "HN": 300,
+      "HCM": 250
+    },
+    "hoTroSale": {
+      "HN": 400,
+      "HCM": 600
+    },
+    "nhatKy": [
+      {
+        "taiKhoan": "nva1",
+        "loai": "Đầu mối 360",
+        "moTa": "Không phát sinh",
+        "soLuong": 0
+      },
+      {
+        "taiKhoan": "nvb2",
+        "loai": "Đầu mối 360",
+        "moTa": "Không phát sinh",
+        "soLuong": 0
+      },
+      {
+        "taiKhoan": "nvc3",
+        "loai": "Kiểm kho",
+        "moTa": "Kiểm kho mẫu",
+        "soLuong": 20
+      },
+      {
+        "taiKhoan": "nvc3",
+        "loai": "Đầu mối 360",
+        "moTa": "Hỗ trợ vận hành mẫu",
+        "soLuong": 4
+      },
+      {
+        "taiKhoan": "nvc3",
+        "loai": "Quản lý sale admin tỉnh",
+        "moTa": "Hỗ trợ tỉnh mẫu",
+        "soLuong": 8
+      },
+      {
+        "taiKhoan": "nvd4",
+        "loai": "Kiểm kho",
+        "moTa": "Kiểm kho mẫu",
+        "soLuong": 10
+      },
+      {
+        "taiKhoan": "nve5",
+        "loai": "Kiểm kho",
+        "moTa": "Kiểm kho mẫu",
+        "soLuong": 2
+      },
+      {
+        "taiKhoan": "nvf6",
+        "loai": "Đầu mối 360",
+        "moTa": "Không phát sinh",
+        "soLuong": 0
+      },
+      {
+        "taiKhoan": "nvg7",
+        "loai": "Hỗ trợ kế toán",
+        "moTa": "Hỗ trợ mẫu",
+        "soLuong": 10
+      }
+    ],
+    "keyMetrics": [
+      {
+        "chiSo": "vongQuayHTK",
+        "capDo": "nhom",
+        "khoa": "Quản lý kho",
+        "mucTieu": 21,
+        "ketQua": 21.19
+      },
+      {
+        "chiSo": "doanhThu",
+        "capDo": "nhom",
+        "khoa": "Quản lý kho",
+        "mucTieu": 2000000000,
+        "ketQua": 1960000000
+      },
+      {
+        "chiSo": "tyLeBaoHanh",
+        "capDo": "khuVuc",
+        "khoa": "HN",
+        "mucTieu": 0.033,
+        "ketQua": 0.0329
+      },
+      {
+        "chiSo": "tyLeBaoHanh",
+        "capDo": "khuVuc",
+        "khoa": "HCM",
+        "mucTieu": 0.033,
+        "ketQua": 0.0327
+      },
+      {
+        "chiSo": "tyLeHaiLong",
+        "capDo": "nhom",
+        "khoa": "Đảm bảo an toàn thiết bị",
+        "mucTieu": 0.8,
+        "ketQua": 0.846
+      },
+      {
+        "chiSo": "tyLeHaiLong",
+        "capDo": "taiKhoan",
+        "khoa": "nvf6",
+        "mucTieu": 0.8,
+        "ketQua": 0.7
+      },
+      {
+        "chiSo": "doanhThu",
+        "capDo": "nhom",
+        "khoa": "Đảm bảo an toàn thiết bị",
+        "mucTieu": 2000000000,
+        "ketQua": 2100000000
+      }
+    ]
+  }
+}

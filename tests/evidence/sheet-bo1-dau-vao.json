@@ -1,0 +1,909 @@
+{
+ "_ghiChu": "DỮ LIỆU GIẢ. Bình thường: tháng 09/2026, đủ dữ liệu",
+ "cacTab": {
+  "CH_ThamSo": [
+   [
+    "Tham số",
+    "Giá trị"
+   ],
+   [
+    "donGiaPoint",
+    50000
+   ],
+   [
+    "phuCap",
+    200000
+   ],
+   [
+    "heSoHoTroSale",
+    0.17
+   ],
+   [
+    "pointMoiCaBaoHanh",
+    1
+   ],
+   [
+    "heSoMin",
+    0.7
+   ],
+   [
+    "tranDoanhThu",
+    1.2
+   ],
+   [
+    "saiSoDoiSoat",
+    0.01
+   ],
+   [
+    "tenTabKetQua",
+    "KetQua"
+   ]
+  ],
+  "CH_Bac": [
+   [
+    "Bậc",
+    "Lương cố định",
+    "Min",
+    "Max"
+   ],
+   [
+    1,
+    6000000,
+    120,
+    150
+   ],
+   [
+    2,
+    7500000,
+    150,
+    200
+   ],
+   [
+    3,
+    8500000,
+    200,
+    250
+   ],
+   [
+    4,
+    10000000,
+    250,
+    300
+   ],
+   [
+    5,
+    12000000,
+    300,
+    350
+   ]
+  ],
+  "CH_BacThang": [
+   [
+    "Từ",
+    "Đến",
+    "% thưởng"
+   ],
+   [
+    0,
+    0.7,
+    0
+   ],
+   [
+    0.7,
+    0.8,
+    0.15
+   ],
+   [
+    0.8,
+    0.9,
+    0.2
+   ],
+   [
+    0.9,
+    1,
+    0.25
+   ],
+   [
+    1,
+    "",
+    0.35
+   ]
+  ],
+  "CH_ChiSo": [
+   [
+    "Mã chỉ số",
+    "Tên",
+    "Kiểu"
+   ],
+   [
+    "vongQuayHTK",
+    "Thời gian vòng quay HTK",
+    "thapTot"
+   ],
+   [
+    "tyLeBaoHanh",
+    "Tỷ lệ bảo hành",
+    "thapTot"
+   ],
+   [
+    "tyLeHaiLong",
+    "Tỷ lệ hài lòng thiết bị",
+    "caoTot"
+   ],
+   [
+    "doanhThu",
+    "Hoàn thành doanh thu",
+    "doanhThu"
+   ]
+  ],
+  "CH_NhomThietBi": [
+   [
+    "Nhóm",
+    "Point xuất bán",
+    "Point chuyển kho"
+   ],
+   [
+    "MBH S2",
+    0.67,
+    0.75
+   ],
+   [
+    "Thiết bị BH",
+    0.3,
+    0.33
+   ],
+   [
+    "Két tiền",
+    0.33,
+    0.33
+   ],
+   [
+    "Giấy",
+    0.01,
+    0.01
+   ],
+   [
+    "MBH Cầm tay",
+    0.58,
+    0.58
+   ]
+  ],
+  "CH_MaHang": [
+   [
+    "Mã hàng",
+    "Nhóm"
+   ],
+   [
+    "SP-001",
+    "MBH S2"
+   ],
+   [
+    "SP-002",
+    "Thiết bị BH"
+   ],
+   [
+    "SP-003",
+    "Két tiền"
+   ],
+   [
+    "SP-004",
+    "Giấy"
+   ],
+   [
+    "SP-006",
+    "MBH cầm tay"
+   ]
+  ],
+  "CH_ViecQuanLyKho": [
+   [
+    "Loại việc",
+    "Hệ số"
+   ],
+   [
+    "Kiểm kho",
+    0.5
+   ],
+   [
+    "Đầu mối 360",
+    1
+   ],
+   [
+    "Quản lý sale admin tỉnh",
+    0.375
+   ],
+   [
+    "Hỗ trợ kế toán",
+    0.5
+   ]
+  ],
+  "CH_HeSoChia": [
+   [
+    "Nguồn",
+    "Khu vực",
+    "Tài khoản",
+    "Hệ số"
+   ],
+   [
+    "xuatBanChuyenKho",
+    "HN",
+    "nva1",
+    0.4
+   ],
+   [
+    "xuatBanChuyenKho",
+    "HN",
+    "nvb2",
+    0.6
+   ],
+   [
+    "xuatBanChuyenKho",
+    "HCM",
+    "nve5",
+    0.7
+   ],
+   [
+    "xuatBanChuyenKho",
+    "HCM",
+    "nvf6",
+    0.3
+   ],
+   [
+    "baoHanh",
+    "HN",
+    "nva1",
+    0.5
+   ],
+   [
+    "baoHanh",
+    "HN",
+    "nvb2",
+    0.5
+   ],
+   [
+    "baoHanh",
+    "HCM",
+    "nve5",
+    0.2
+   ],
+   [
+    "baoHanh",
+    "HCM",
+    "nvf6",
+    0.8
+   ],
+   [
+    "hoTroSale",
+    "HN",
+    "nva1",
+    0.5
+   ],
+   [
+    "hoTroSale",
+    "HN",
+    "nvb2",
+    0.5
+   ],
+   [
+    "hoTroSale",
+    "HCM",
+    "nve5",
+    0.8
+   ],
+   [
+    "hoTroSale",
+    "HCM",
+    "nvf6",
+    0.2
+   ]
+  ],
+  "CH_KhuVuc": [
+   [
+    "Khu vực",
+    "Tab báo cáo"
+   ],
+   [
+    "HN",
+    "KiemKe_HN"
+   ],
+   [
+    "HCM",
+    "KiemKe_HCM"
+   ]
+  ],
+  "CH_ThanhVien": [
+   [
+    "Tài khoản",
+    "Tên",
+    "Bậc",
+    "Khu vực",
+    "Nhóm",
+    "Máy tính cá nhân",
+    "Ghi đè lương cố định"
+   ],
+   [
+    "nva1",
+    "Nhân viên A",
+    1,
+    "HN",
+    "Đảm bảo an toàn thiết bị",
+    true,
+    ""
+   ],
+   [
+    "nvb2",
+    "Nhân viên B",
+    4,
+    "HN",
+    "Đảm bảo an toàn thiết bị",
+    true,
+    ""
+   ],
+   [
+    "nvc3",
+    "Nhân viên C",
+    4,
+    "HN",
+    "Quản lý kho",
+    true,
+    ""
+   ],
+   [
+    "nvd4",
+    "Nhân viên D (chủ sở hữu)",
+    4,
+    "HN",
+    "Quản lý kho",
+    false,
+    ""
+   ],
+   [
+    "nve5",
+    "Nhân viên E",
+    4,
+    "HCM",
+    "Đảm bảo an toàn thiết bị",
+    true,
+    10800000
+   ],
+   [
+    "nvf6",
+    "Nhân viên F",
+    1,
+    "HCM",
+    "Đảm bảo an toàn thiết bị",
+    true,
+    6600000
+   ],
+   [
+    "nvg7",
+    "Nhân viên G",
+    3,
+    "HCM",
+    "Đảm bảo an toàn thiết bị",
+    false,
+    ""
+   ]
+  ],
+  "CH_TyTrong": [
+   [
+    "Tài khoản",
+    "Chỉ số",
+    "Tỷ trọng"
+   ],
+   [
+    "nva1",
+    "tyLeBaoHanh",
+    0.4
+   ],
+   [
+    "nva1",
+    "tyLeHaiLong",
+    0.4
+   ],
+   [
+    "nva1",
+    "doanhThu",
+    0.2
+   ],
+   [
+    "nvb2",
+    "tyLeBaoHanh",
+    0.4
+   ],
+   [
+    "nvb2",
+    "tyLeHaiLong",
+    0.35
+   ],
+   [
+    "nvb2",
+    "doanhThu",
+    0.25
+   ],
+   [
+    "nvc3",
+    "vongQuayHTK",
+    0.8
+   ],
+   [
+    "nvc3",
+    "doanhThu",
+    0.2
+   ],
+   [
+    "nve5",
+    "tyLeBaoHanh",
+    0.35
+   ],
+   [
+    "nve5",
+    "tyLeHaiLong",
+    0.4
+   ],
+   [
+    "nve5",
+    "doanhThu",
+    0.25
+   ],
+   [
+    "nvf6",
+    "tyLeBaoHanh",
+    0.45
+   ],
+   [
+    "nvf6",
+    "tyLeHaiLong",
+    0.35
+   ],
+   [
+    "nvf6",
+    "doanhThu",
+    0.2
+   ],
+   [
+    "nvg7",
+    "tyLeBaoHanh",
+    0.4
+   ],
+   [
+    "nvg7",
+    "tyLeHaiLong",
+    0.4
+   ],
+   [
+    "nvg7",
+    "doanhThu",
+    0.2
+   ]
+  ],
+  "Ky": [
+   [
+    "Mục",
+    "Giá trị"
+   ],
+   [
+    "Tháng",
+    "2026-09"
+   ]
+  ],
+  "BaoHanh_HoTroSale": [
+   [
+    "Khu vực",
+    "Số ca bảo hành",
+    "Số đơn hỗ trợ sale"
+   ],
+   [
+    "HN",
+    300,
+    400
+   ],
+   [
+    "HCM",
+    250,
+    600
+   ]
+  ],
+  "XacNhanBaoCao": [
+   [
+    "Khu vực",
+    "Xác nhận"
+   ]
+  ],
+  "NhatKyCongViec": [
+   [
+    "Tài khoản",
+    "Loại việc",
+    "Mô tả",
+    "Số lượng"
+   ],
+   [
+    "nva1",
+    "Đầu mối 360",
+    "Không phát sinh",
+    0
+   ],
+   [
+    "nvb2",
+    "Đầu mối 360",
+    "Không phát sinh",
+    0
+   ],
+   [
+    "nvc3",
+    "Kiểm kho",
+    "Kiểm kho mẫu",
+    20
+   ],
+   [
+    "nvc3",
+    "Đầu mối 360",
+    "Hỗ trợ vận hành mẫu",
+    4
+   ],
+   [
+    "nvc3",
+    "Quản lý sale admin tỉnh",
+    "Hỗ trợ tỉnh mẫu",
+    8
+   ],
+   [
+    "nvd4",
+    "Kiểm kho",
+    "Kiểm kho mẫu",
+    10
+   ],
+   [
+    "nve5",
+    "Kiểm kho",
+    "Kiểm kho mẫu",
+    2
+   ],
+   [
+    "nvf6",
+    "Đầu mối 360",
+    "Không phát sinh",
+    0
+   ],
+   [
+    "nvg7",
+    "Hỗ trợ kế toán",
+    "Hỗ trợ mẫu",
+    10
+   ]
+  ],
+  "KeyMetrics": [
+   [
+    "Chỉ số",
+    "Cấp độ",
+    "Khoá",
+    "Mục tiêu",
+    "Kết quả"
+   ],
+   [
+    "vongQuayHTK",
+    "Nhóm",
+    "Quản lý kho",
+    21,
+    21.19
+   ],
+   [
+    "doanhThu",
+    "Nhóm",
+    "Quản lý kho",
+    2000000000,
+    1960000000
+   ],
+   [
+    "tyLeBaoHanh",
+    "Khu vực",
+    "HN",
+    0.033,
+    0.0329
+   ],
+   [
+    "tyLeBaoHanh",
+    "Khu vực",
+    "HCM",
+    0.033,
+    0.0327
+   ],
+   [
+    "tyLeHaiLong",
+    "Nhóm",
+    "Đảm bảo an toàn thiết bị",
+    0.8,
+    0.846
+   ],
+   [
+    "tyLeHaiLong",
+    "Tài khoản",
+    "nvf6",
+    0.8,
+    0.7
+   ],
+   [
+    "doanhThu",
+    "Nhóm",
+    "Đảm bảo an toàn thiết bị",
+    2000000000,
+    2100000000
+   ]
+  ],
+  "KiemKe_HN": [
+   [
+    "Đơn vị: CÔNG TY GIẢ"
+   ],
+   [
+    "Địa chỉ: Địa chỉ giả"
+   ],
+   [],
+   [
+    "BÁO CÁO KIỂM KÊ NHẬP XUẤT TỒN KHO"
+   ],
+   [
+    "Từ ngày: 01/09/2026 đến ngày: 30/09/2026"
+   ],
+   [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Đơn vị tính: VND"
+   ],
+   [
+    "STT",
+    "Mã hàng",
+    "Tên hàng",
+    "Giá bán",
+    "Tồn kho đầu kỳ",
+    "Nhập trong kỳ",
+    "Xuất trong kỳ",
+    "",
+    "",
+    "Giá trị"
+   ],
+   [
+    "",
+    "",
+    "",
+    "",
+    "SL",
+    "SL nhập",
+    "SL bán ra trong kỳ",
+    "SL trả nhà cung cấp",
+    "SL chuyển kho",
+    "GT tồn cuối kỳ"
+   ],
+   [
+    "Tổng",
+    "",
+    "",
+    "",
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    1,
+    "SP-001",
+    "Thiết bị mẫu 1",
+    1234567,
+    7,
+    3,
+    100,
+    0,
+    50,
+    999999
+   ],
+   [
+    2,
+    "SP-002",
+    "Thiết bị mẫu 2",
+    1234567,
+    7,
+    3,
+    200,
+    0,
+    100,
+    999999
+   ],
+   [
+    3,
+    "SP-003",
+    "Thiết bị mẫu 3",
+    1234567,
+    7,
+    3,
+    40,
+    0,
+    0,
+    999999
+   ],
+   [
+    4,
+    "SP-004",
+    "Giấy mẫu",
+    1234567,
+    7,
+    3,
+    1000,
+    0,
+    500,
+    999999
+   ],
+   [
+    5,
+    "SP-006",
+    "Thiết bị mẫu 6",
+    1234567,
+    7,
+    3,
+    20,
+    0,
+    0,
+    999999
+   ],
+   [
+    6,
+    "SP-099",
+    "Thiết bị không phát sinh",
+    1234567,
+    7,
+    3,
+    0,
+    0,
+    0,
+    999999
+   ],
+   [
+    7,
+    "",
+    "Thiết bị mẫu - Demo",
+    1234567,
+    7,
+    3,
+    0,
+    0,
+    0,
+    999999
+   ],
+   [
+    "Tổng số dòng :7"
+   ]
+  ],
+  "KiemKe_HCM": [
+   [
+    "Đơn vị: CÔNG TY GIẢ"
+   ],
+   [
+    "Địa chỉ: Địa chỉ giả"
+   ],
+   [],
+   [
+    "BÁO CÁO KIỂM KÊ NHẬP XUẤT TỒN KHO"
+   ],
+   [
+    "Từ ngày: 01/09/2026 đến ngày: 30/09/2026"
+   ],
+   [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "Đơn vị tính: VND"
+   ],
+   [
+    "STT",
+    "Mã hàng",
+    "Tên hàng",
+    "Giá bán",
+    "Tồn kho đầu kỳ",
+    "Nhập trong kỳ",
+    "Xuất trong kỳ",
+    "",
+    "",
+    "Giá trị"
+   ],
+   [
+    "",
+    "",
+    "",
+    "",
+    "SL",
+    "SL nhập",
+    "SL bán ra trong kỳ",
+    "SL trả nhà cung cấp",
+    "SL chuyển kho",
+    "GT tồn cuối kỳ"
+   ],
+   [
+    "Tổng",
+    "",
+    "",
+    "",
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+   ],
+   [
+    1,
+    "SP-001",
+    "Thiết bị mẫu 1",
+    1234567,
+    7,
+    3,
+    60,
+    0,
+    20,
+    999999
+   ],
+   [
+    2,
+    "SP-002",
+    "Thiết bị mẫu 2",
+    1234567,
+    7,
+    3,
+    120,
+    0,
+    80,
+    999999
+   ],
+   [
+    3,
+    "SP-003",
+    "Thiết bị mẫu 3",
+    1234567,
+    7,
+    3,
+    50,
+    0,
+    50,
+    999999
+   ],
+   [
+    4,
+    "SP-004",
+    "Giấy mẫu",
+    1234567,
+    7,
+    3,
+    2000,
+    0,
+    1000,
+    999999
+   ],
+   [
+    5,
+    "SP-006",
+    "Thiết bị mẫu 6",
+    1234567,
+    7,
+    3,
+    30,
+    0,
+    10,
+    999999
+   ],
+   [
+    "Tổng số dòng :5"
+   ]
+  ]
+ }
+}

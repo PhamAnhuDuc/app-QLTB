@@ -1,0 +1,604 @@
+{
+ "cacBuoc": [
+  {
+   "buoc": "1. Duyệt và chốt kỳ 2026-09 (đủ dữ liệu)",
+   "ketQua": {
+    "daChot": true,
+    "ky": "2026-09",
+    "tenTab": "Chot_2026-09",
+    "tong": 75838000,
+    "soDaTinh": 6,
+    "tongSo": 6,
+    "soBoQua": 0,
+    "boQua": []
+   }
+  },
+  {
+   "buoc": "2. Sửa KeyMetrics rồi Tính kỳ: cảnh báo so với bản chốt",
+   "ketQua": {
+    "daGhi": true,
+    "canhBaoKyDaChot": [
+     "Kỳ 2026-09 đã chốt lúc 2026-10-14 08:00:00. Kết quả tính lại KHÁC bản chốt ở 2 người: nva1, nvb2. Bản chốt không đổi; muốn chốt lại hãy dùng \"Mở lại kỳ\"."
+    ]
+   }
+  },
+  {
+   "buoc": "3. Duyệt lần nữa: bị từ chối vì kỳ đã chốt",
+   "ketQua": {
+    "daChot": false,
+    "lyDo": [
+     "KY_DA_CHOT",
+     "THIEU_XAC_NHAN"
+    ]
+   }
+  },
+  {
+   "buoc": "4. Mở lại kỳ có lý do",
+   "ketQua": {
+    "daMoLai": true,
+    "ky": "2026-09",
+    "tenTabCu": "Chot_2026-09_cu1"
+   }
+  },
+  {
+   "buoc": "5. Chốt lại, xác nhận bỏ qua hai người chưa tính",
+   "ketQua": {
+    "daChot": true,
+    "ky": "2026-09",
+    "tenTab": "Chot_2026-09",
+    "tong": 49838000,
+    "soDaTinh": 4,
+    "tongSo": 6,
+    "soBoQua": 2,
+    "boQua": [
+     "nva1",
+     "nvb2"
+    ]
+   }
+  }
+ ],
+ "cuoi": {
+  "danhSachTab": [
+   "CH_ThamSo",
+   "CH_Bac",
+   "CH_BacThang",
+   "CH_ChiSo",
+   "CH_NhomThietBi",
+   "CH_MaHang",
+   "CH_ViecQuanLyKho",
+   "CH_HeSoChia",
+   "CH_KhuVuc",
+   "CH_ThanhVien",
+   "CH_TyTrong",
+   "Ky",
+   "BaoHanh_HoTroSale",
+   "XacNhanBaoCao",
+   "NhatKyCongViec",
+   "KeyMetrics",
+   "KiemKe_HN",
+   "KiemKe_HCM",
+   "KetQua",
+   "GiaiThich",
+   "NhatKyHeThong",
+   "Chot_2026-09_cu1",
+   "KyDaChot",
+   "Chot_2026-09"
+  ],
+  "kyDaChot": [
+   [
+    "Kỳ",
+    "Trạng thái",
+    "Thời điểm",
+    "Tổng thu nhập đã duyệt",
+    "Số người đã tính",
+    "Số người bỏ qua",
+    "Tab bản sao",
+    "Lý do"
+   ],
+   [
+    "2026-09",
+    "Đã chốt",
+    "2026-10-14 08:00:00",
+    75838000,
+    6,
+    0,
+    "Chot_2026-09",
+    ""
+   ],
+   [
+    "2026-09",
+    "Đã mở lại",
+    "2026-10-14 10:00:00",
+    75838000,
+    6,
+    0,
+    "Chot_2026-09_cu1",
+    "Thử mở lại để sửa dữ liệu (lý do giả)"
+   ],
+   [
+    "2026-09",
+    "Đã chốt",
+    "2026-10-14 11:00:00",
+    49838000,
+    4,
+    2,
+    "Chot_2026-09",
+    ""
+   ]
+  ],
+  "banChotHienHanh": {
+   "tab": "Chot_2026-09",
+   "baoVeCanhBao": true,
+   "dongDau": [
+    [
+     "BẢN SAO KỲ ĐÃ CHỐT – chỉ để tra cứu, không sửa tay",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Kỳ",
+     "2026-09",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Thời điểm chốt",
+     "2026-10-14 11:00:00",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Người bị bỏ qua khi chốt",
+     "nva1; nvb2",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tổng thu nhập đã duyệt",
+     49838000,
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Số người đã tính / tổng",
+     "4/6",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dấu vân tay dữ liệu",
+     "2d459024",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Số đoạn dữ liệu",
+     1,
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  },
+  "banChotCu": {
+   "tab": "Chot_2026-09_cu1",
+   "baoVeCanhBao": true,
+   "dongDau": [
+    [
+     "BẢN SAO KỲ ĐÃ CHỐT – chỉ để tra cứu, không sửa tay",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Kỳ",
+     "2026-09",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Thời điểm chốt",
+     "2026-10-14 08:00:00",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Người bị bỏ qua khi chốt",
+     "—",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tổng thu nhập đã duyệt",
+     75838000,
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Số người đã tính / tổng",
+     "6/6",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dấu vân tay dữ liệu",
+     "b03d0fdf",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Số đoạn dữ liệu",
+     1,
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ]
+  },
+  "nhatKyHeThong": [
+   [
+    "Thời điểm",
+    "Mức",
+    "Loại lỗi",
+    "Trường liên quan",
+    "Phạm vi"
+   ],
+   [
+    "2026-10-14 08:00:00",
+    "canhBao",
+    "POINT_CAT_TRAN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 08:00:00",
+    "canhBao",
+    "POINT_CAT_TRAN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 08:00:00",
+    "thongTin",
+    "POINT_DUOI_MIN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 08:00:00",
+    "thongTin",
+    "POINT_DUOI_MIN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 08:00:00",
+    "canhBao",
+    "GHI_DE_LUONG",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 08:00:00",
+    "canhBao",
+    "GHI_DE_LUONG",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 08:00:00",
+    "canhBao",
+    "POINT_CAT_TRAN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 08:00:00",
+    "thongTin",
+    "POINT_DUOI_MIN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 08:00:00",
+    "thongTin",
+    "KY_DA_CHOT",
+    "",
+    "sukien"
+   ],
+   [
+    "2026-10-14 09:00:00",
+    "canhBao",
+    "POINT_CAT_TRAN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 09:00:00",
+    "canhBao",
+    "POINT_CAT_TRAN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 09:00:00",
+    "thongTin",
+    "POINT_DUOI_MIN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 09:00:00",
+    "thongTin",
+    "POINT_DUOI_MIN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 09:00:00",
+    "canhBao",
+    "GHI_DE_LUONG",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 09:00:00",
+    "canhBao",
+    "GHI_DE_LUONG",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 09:00:00",
+    "canhBao",
+    "POINT_CAT_TRAN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 09:00:00",
+    "thongTin",
+    "POINT_DUOI_MIN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 09:00:00",
+    "canhBao",
+    "KY_DA_CHOT",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 10:00:00",
+    "thongTin",
+    "KY_MO_LAI",
+    "",
+    "sukien"
+   ],
+   [
+    "2026-10-14 11:00:00",
+    "canhBao",
+    "POINT_CAT_TRAN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 11:00:00",
+    "canhBao",
+    "POINT_CAT_TRAN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 11:00:00",
+    "thongTin",
+    "POINT_DUOI_MIN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 11:00:00",
+    "thongTin",
+    "POINT_DUOI_MIN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 11:00:00",
+    "canhBao",
+    "GHI_DE_LUONG",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 11:00:00",
+    "canhBao",
+    "GHI_DE_LUONG",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 11:00:00",
+    "canhBao",
+    "POINT_CAT_TRAN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 11:00:00",
+    "thongTin",
+    "POINT_DUOI_MIN",
+    "",
+    ""
+   ],
+   [
+    "2026-10-14 11:00:00",
+    "thongTin",
+    "KY_DA_CHOT",
+    "",
+    "sukien"
+   ]
+  ],
+  "tabDauVaoKhongBiGhiTrongDuyet": true
+ }
+}

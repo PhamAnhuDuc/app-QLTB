@@ -1,0 +1,118 @@
+{
+  "_ghiChu": "DỮ LIỆU GIẢ. Bộ 2: kỳ tháng 10/2026.",
+  "ky": {
+    "thang": "2026-10",
+    "tuNgay": "2026-10-01",
+    "denNgay": "2026-10-31"
+  },
+  "kiemKe": {
+    "HN": {
+      "tuNgay": "2026-10-01",
+      "denNgay": "2026-10-31",
+      "dong": [
+        {
+          "ma": "SP-001",
+          "ten": "Thiết bị mẫu 1",
+          "banRa": 10,
+          "chuyenKho": 10
+        },
+        {
+          "ma": "SP-002",
+          "ten": "Thiết bị mẫu 2",
+          "banRa": 40,
+          "chuyenKho": 0
+        }
+      ]
+    },
+    "HCM": {
+      "tuNgay": "2026-10-01",
+      "denNgay": "2026-10-31",
+      "dong": [
+        {
+          "ma": "sp-003",
+          "ten": "Thiết bị mẫu 3 (mã viết thường)",
+          "banRa": 100,
+          "chuyenKho": 100
+        }
+      ]
+    }
+  },
+  "baoHanh": {
+    "HN": 40,
+    "HCM": 20
+  },
+  "hoTroSale": {
+    "HN": 100,
+    "HCM": 50
+  },
+  "nhatKy": [
+    {
+      "taiKhoan": "nvh8",
+      "loai": "Kiểm kho",
+      "moTa": "Kiểm kho mẫu",
+      "soLuong": 400
+    },
+    {
+      "taiKhoan": "nvi9",
+      "loai": "Kiểm kho",
+      "moTa": "Kiểm kho mẫu",
+      "soLuong": 0
+    },
+    {
+      "taiKhoan": "nvk10",
+      "loai": "Kiểm kho",
+      "moTa": "Kiểm kho mẫu",
+      "soLuong": 0
+    },
+    {
+      "taiKhoan": "nvl11",
+      "loai": "Đầu mối 360",
+      "moTa": "Vận hành mẫu",
+      "soLuong": 50
+    }
+  ],
+  "keyMetrics": [
+    {
+      "chiSo": "tyLeBaoHanh",
+      "capDo": "khuVuc",
+      "khoa": "HN",
+      "mucTieu": 0.033,
+      "ketQua": 0.0345
+    },
+    {
+      "chiSo": "tyLeBaoHanh",
+      "capDo": "khuVuc",
+      "khoa": "HCM",
+      "mucTieu": 0.04,
+      "ketQua": 0.055
+    },
+    {
+      "chiSo": "doanhThu",
+      "capDo": "nhom",
+      "khoa": "Đảm bảo an toàn thiết bị",
+      "mucTieu": 1000000000,
+      "ketQua": 900000000
+    },
+    {
+      "chiSo": "doanhThu",
+      "capDo": "nhom",
+      "khoa": "Quản lý kho",
+      "mucTieu": 1000000000,
+      "ketQua": 1500000000
+    },
+    {
+      "chiSo": "tyLeHaiLong",
+      "capDo": "nhom",
+      "khoa": "Đảm bảo an toàn thiết bị",
+      "mucTieu": 0.8,
+      "ketQua": 0.7
+    },
+    {
+      "chiSo": "vongQuayHTK",
+      "capDo": "nhom",
+      "khoa": "Quản lý kho",
+      "mucTieu": 20,
+      "ketQua": 25
+    }
+  ]
+}

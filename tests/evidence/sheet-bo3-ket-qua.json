@@ -1,0 +1,1096 @@
+{
+ "tomTat": {
+  "daGhi": true,
+  "tenTabKetQua": "KetQua",
+  "chanToanBo": false,
+  "kyDuDuLieu": false
+ },
+ "tabDaGhi": [
+  "GiaiThich",
+  "KetQua",
+  "NhatKyHeThong"
+ ],
+ "tabDauVaoKhongDoi": true,
+ "thongBao": [
+  "Đã tính xong (CHƯA đủ dữ liệu). Xem tab KetQua. Kết quả là đề xuất chờ bạn duyệt."
+ ],
+ "KetQua": [
+  [
+   "Đề xuất – chờ duyệt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Kỳ",
+   "2026-09",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Trạng thái dữ liệu",
+   "Chưa đủ dữ liệu",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Thời điểm tính",
+   "2026-10-14 08:00:00",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Nhóm",
+   "Thành viên",
+   "Bậc",
+   "Σ point",
+   "Min–Max",
+   "Point vượt",
+   "Điểm key metrics",
+   "% thưởng KM",
+   "Lương cố định",
+   "Thưởng KM",
+   "Thưởng vượt point",
+   "Phụ cấp",
+   "Thu nhập tạm tính",
+   "Trạng thái"
+  ],
+  [
+   "Đảm bảo an toàn thiết bị",
+   "Nhân viên A",
+   1,
+   "—",
+   "120–150",
+   "—",
+   "—",
+   "—",
+   6000000,
+   "—",
+   "—",
+   200000,
+   "—",
+   "Chưa tính: Point: thiếu; Key metrics: thiếu"
+  ],
+  [
+   "Đảm bảo an toàn thiết bị",
+   "Nhân viên B",
+   4,
+   "—",
+   "250–300",
+   "—",
+   "—",
+   "—",
+   10000000,
+   "—",
+   "—",
+   200000,
+   "—",
+   "Chưa tính: Point: thiếu; Key metrics: bị chặn do lỗi"
+  ],
+  [
+   "Đảm bảo an toàn thiết bị",
+   "Nhân viên E",
+   4,
+   "—",
+   "250–300",
+   "—",
+   "—",
+   "—",
+   10800000,
+   "—",
+   "—",
+   200000,
+   "—",
+   "Chưa tính: Point: thiếu; Key metrics: thiếu"
+  ],
+  [
+   "Đảm bảo an toàn thiết bị",
+   "Nhân viên F",
+   1,
+   "—",
+   "120–150",
+   "—",
+   0.8642,
+   0.2,
+   6600000,
+   1320000,
+   "—",
+   200000,
+   "—",
+   "Chưa tính: Point: thiếu"
+  ],
+  [
+   "Đảm bảo an toàn thiết bị",
+   "Nhân viên G",
+   3,
+   5,
+   "200–250",
+   0,
+   "—",
+   "—",
+   8500000,
+   "—",
+   0,
+   0,
+   "—",
+   "Chưa tính: Key metrics: thiếu"
+  ],
+  [
+   "Tổng nhóm: Đảm bảo an toàn thiết bị",
+   "cộng của 0/5 người",
+   "",
+   "",
+   "",
+   null,
+   "",
+   "",
+   "—",
+   "—",
+   "—",
+   "—",
+   "—",
+   ""
+  ],
+  [
+   "Quản lý kho",
+   "Nhân viên C",
+   4,
+   "—",
+   "250–300",
+   "—",
+   "—",
+   "—",
+   10000000,
+   "—",
+   "—",
+   200000,
+   "—",
+   "Chưa tính: Point: thiếu; Key metrics: bị chặn do lỗi"
+  ],
+  [
+   "Quản lý kho",
+   "Nhân viên D (chủ sở hữu)",
+   4,
+   5,
+   "250–300",
+   0,
+   "—",
+   "—",
+   10000000,
+   "—",
+   0,
+   "—",
+   "—",
+   "Không tính (chỉ theo dõi point)"
+  ],
+  [
+   "Tổng nhóm: Quản lý kho",
+   "cộng của 0/1 người",
+   "",
+   "",
+   "",
+   null,
+   "",
+   "",
+   "—",
+   "—",
+   "—",
+   "—",
+   "—",
+   ""
+  ],
+  [
+   "Tổng team",
+   "cộng của 0/6 người",
+   "",
+   "",
+   "",
+   null,
+   "",
+   "",
+   "—",
+   "—",
+   "—",
+   "—",
+   "—",
+   ""
+  ],
+  [
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "LỖI (8)",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Mã",
+   "Phạm vi chặn",
+   "Thông điệp",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "TONG_TY_TRONG",
+   "km:nvb2",
+   "[tab CH_TyTrong, dòng 5, 6, 7] Tổng tỷ trọng của nvb2 là 90%, phải bằng 100%",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "TONG_HE_SO",
+   "nguon:baoHanh:hcm",
+   "[tab CH_HeSoChia, dòng 8, 9] Tổng hệ số chia của nguồn baoHanh ở khu vực hcm là 0.9, phải bằng 1",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "SO_LUONG_SAI",
+   "nhapLieu",
+   "[tab BaoHanh_HoTroSale, dòng 2, cột \"Số ca bảo hành\"] Số không được âm",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "MA_HANG_LA",
+   "nguon:xuatBanChuyenKho:hn",
+   "[tab KiemKe_HN, dòng 17] Mã ABC-999 chưa có trong bảng quy đổi (khu vực HN, bán 3, chuyển kho 0)",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "BAO_CAO_CHUA_PHU_KY",
+   "nguon:xuatBanChuyenKho:hcm",
+   "[tab KiemKe_HCM] Báo cáo kiểm kê khu vực HCM (2026-09-01 đến 2026-09-14) chưa phủ hết kỳ 2026-09-01 đến 2026-09-30. Cần chủ sở hữu xác nhận trước khi dùng",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "TAI_KHOAN_LA",
+   "doiSoat",
+   "[tab NhatKyCongViec, dòng 11] Dòng 10 của nhật ký công việc dùng tài khoản không có trong danh sách: khongco",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "LOAI_VIEC_LA",
+   "qk:nvc3",
+   "[tab NhatKyCongViec, dòng 12] Dòng 11 của nhật ký (tài khoản nvc3): loại việc \"Việc lạ\" chưa có hệ số trong bảng quy đổi",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "MUC_TIEU_SAI",
+   "km:nvc3",
+   "[tab KeyMetrics] Mục tiêu của chỉ số doanhThu (thành viên nvc3) phải lớn hơn 0",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "CẢNH BÁO (5)",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Mức",
+   "Mã",
+   "Thông điệp",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "canhBao",
+   "DONG_THIEU_MA",
+   "[tab KiemKe_HN, dòng 18] Dòng 9 của báo cáo khu vực HN có phát sinh (bán 5, chuyển kho 0) nhưng thiếu mã hàng, không tính point",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "thongTin",
+   "POINT_DUOI_MIN",
+   "nvd4 có point 5 thấp hơn Min 250, chỉ là thông tin, không trừ vào thu nhập",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "canhBao",
+   "GHI_DE_LUONG",
+   "Lương cố định của nve5 đã ghi đè khác giá trị chuẩn của bậc 4",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "canhBao",
+   "GHI_DE_LUONG",
+   "Lương cố định của nvf6 đã ghi đè khác giá trị chuẩn của bậc 1",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "thongTin",
+   "POINT_DUOI_MIN",
+   "nvg7 có point 5 thấp hơn Min 200, chỉ là thông tin, không trừ vào thu nhập",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "ĐỐI SOÁT",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "Nguồn",
+   "Khu vực",
+   "Quỹ",
+   "Đã chia",
+   "Lệch",
+   "Kết quả",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "hoTroSale",
+   "hn",
+   68,
+   68,
+   0,
+   "Đạt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  [
+   "quanLyKho",
+   "",
+   11,
+   11,
+   0,
+   "Đạt",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ]
+ ],
+ "GiaiThich": [
+  [
+   "Thành viên",
+   "Bước",
+   "Nội dung"
+  ],
+  [
+   "Nhân viên A",
+   "point",
+   "Xuất bán / chuyển kho: chưa có số liệu"
+  ],
+  [
+   "Nhân viên A",
+   "point",
+   "Bảo hành: chưa có số liệu"
+  ],
+  [
+   "Nhân viên A",
+   "point",
+   "Hỗ trợ sale: 34 point"
+  ],
+  [
+   "Nhân viên A",
+   "point",
+   "Quản lý kho (nhật ký công việc): 0 point"
+  ],
+  [
+   "Nhân viên A",
+   "pointTong",
+   "Point tổng: chưa đủ"
+  ],
+  [
+   "Nhân viên A",
+   "minMax",
+   "Min–Max của bậc 1: 120–150"
+  ],
+  [
+   "Nhân viên A",
+   "chiSo",
+   "tyLeBaoHanh: mục tiêu 0.033, kết quả 0.0329, %HT 100%, tỷ trọng 40%"
+  ],
+  [
+   "Nhân viên A",
+   "chiSo",
+   "tyLeHaiLong: chưa có số liệu"
+  ],
+  [
+   "Nhân viên A",
+   "chiSo",
+   "doanhThu: mục tiêu 2000000000, kết quả 2100000000, %HT 105%, tỷ trọng 20%"
+  ],
+  [
+   "Nhân viên A",
+   "phuCap",
+   "Phụ cấp: 200000"
+  ],
+  [
+   "Nhân viên A",
+   "thuNhap",
+   "Chưa tính: Point: thiếu; Key metrics: thiếu"
+  ],
+  [
+   "Nhân viên B",
+   "point",
+   "Xuất bán / chuyển kho: chưa có số liệu"
+  ],
+  [
+   "Nhân viên B",
+   "point",
+   "Bảo hành: chưa có số liệu"
+  ],
+  [
+   "Nhân viên B",
+   "point",
+   "Hỗ trợ sale: 34 point"
+  ],
+  [
+   "Nhân viên B",
+   "point",
+   "Quản lý kho (nhật ký công việc): 0 point"
+  ],
+  [
+   "Nhân viên B",
+   "pointTong",
+   "Point tổng: chưa đủ"
+  ],
+  [
+   "Nhân viên B",
+   "minMax",
+   "Min–Max của bậc 4: 250–300"
+  ],
+  [
+   "Nhân viên B",
+   "phuCap",
+   "Phụ cấp: 200000"
+  ],
+  [
+   "Nhân viên B",
+   "thuNhap",
+   "Chưa tính: Point: thiếu; Key metrics: bị chặn do lỗi"
+  ],
+  [
+   "Nhân viên C",
+   "point",
+   "Quản lý kho (nhật ký công việc): chưa có số liệu"
+  ],
+  [
+   "Nhân viên C",
+   "pointTong",
+   "Point tổng: chưa đủ"
+  ],
+  [
+   "Nhân viên C",
+   "minMax",
+   "Min–Max của bậc 4: 250–300"
+  ],
+  [
+   "Nhân viên C",
+   "chiSo",
+   "vongQuayHTK: mục tiêu 21, kết quả 21.19, %HT 97.89%, tỷ trọng 80%"
+  ],
+  [
+   "Nhân viên C",
+   "chiSo",
+   "doanhThu: chưa có số liệu"
+  ],
+  [
+   "Nhân viên C",
+   "phuCap",
+   "Phụ cấp: 200000"
+  ],
+  [
+   "Nhân viên C",
+   "thuNhap",
+   "Chưa tính: Point: thiếu; Key metrics: bị chặn do lỗi"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "point",
+   "Quản lý kho (nhật ký công việc): 5 point"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "pointTong",
+   "Point tổng: 5"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "minMax",
+   "Min–Max của bậc 4: 250–300"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "pointVuot",
+   "Point vượt = min(point, Max) − Min, không âm = 0"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "thuongVuot",
+   "Thưởng vượt point = 0 × 50000 = 0"
+  ],
+  [
+   "Nhân viên D (chủ sở hữu)",
+   "thuNhap",
+   "Không tính thu nhập"
+  ],
+  [
+   "Nhân viên E",
+   "point",
+   "Xuất bán / chuyển kho: chưa có số liệu"
+  ],
+  [
+   "Nhân viên E",
+   "point",
+   "Bảo hành: chưa có số liệu"
+  ],
+  [
+   "Nhân viên E",
+   "point",
+   "Hỗ trợ sale: chưa có số liệu"
+  ],
+  [
+   "Nhân viên E",
+   "point",
+   "Quản lý kho (nhật ký công việc): 1 point"
+  ],
+  [
+   "Nhân viên E",
+   "pointTong",
+   "Point tổng: chưa đủ"
+  ],
+  [
+   "Nhân viên E",
+   "minMax",
+   "Min–Max của bậc 4: 250–300"
+  ],
+  [
+   "Nhân viên E",
+   "chiSo",
+   "tyLeBaoHanh: mục tiêu 0.033, kết quả 0.0327, %HT 100%, tỷ trọng 35%"
+  ],
+  [
+   "Nhân viên E",
+   "chiSo",
+   "tyLeHaiLong: chưa có số liệu"
+  ],
+  [
+   "Nhân viên E",
+   "chiSo",
+   "doanhThu: mục tiêu 2000000000, kết quả 2100000000, %HT 105%, tỷ trọng 25%"
+  ],
+  [
+   "Nhân viên E",
+   "phuCap",
+   "Phụ cấp: 200000"
+  ],
+  [
+   "Nhân viên E",
+   "thuNhap",
+   "Chưa tính: Point: thiếu; Key metrics: thiếu"
+  ],
+  [
+   "Nhân viên F",
+   "point",
+   "Xuất bán / chuyển kho: chưa có số liệu"
+  ],
+  [
+   "Nhân viên F",
+   "point",
+   "Bảo hành: chưa có số liệu"
+  ],
+  [
+   "Nhân viên F",
+   "point",
+   "Hỗ trợ sale: chưa có số liệu"
+  ],
+  [
+   "Nhân viên F",
+   "point",
+   "Quản lý kho (nhật ký công việc): 0 point"
+  ],
+  [
+   "Nhân viên F",
+   "pointTong",
+   "Point tổng: chưa đủ"
+  ],
+  [
+   "Nhân viên F",
+   "minMax",
+   "Min–Max của bậc 1: 120–150"
+  ],
+  [
+   "Nhân viên F",
+   "chiSo",
+   "tyLeBaoHanh: mục tiêu 0.033, kết quả 0.0327, %HT 100%, tỷ trọng 45%"
+  ],
+  [
+   "Nhân viên F",
+   "chiSo",
+   "tyLeHaiLong: mục tiêu 0.8, kết quả 0.7, %HT 58.33%, tỷ trọng 35%"
+  ],
+  [
+   "Nhân viên F",
+   "chiSo",
+   "doanhThu: mục tiêu 2000000000, kết quả 2100000000, %HT 105%, tỷ trọng 20%"
+  ],
+  [
+   "Nhân viên F",
+   "diemKM",
+   "Điểm key metrics = Σ tỷ trọng × %HT = 86.42% → thưởng 20%"
+  ],
+  [
+   "Nhân viên F",
+   "thuongKM",
+   "Thưởng key metrics = lương cố định 6600000 × 20% = 1320000"
+  ],
+  [
+   "Nhân viên F",
+   "phuCap",
+   "Phụ cấp: 200000"
+  ],
+  [
+   "Nhân viên F",
+   "thuNhap",
+   "Chưa tính: Point: thiếu"
+  ],
+  [
+   "Nhân viên G",
+   "point",
+   "Quản lý kho (nhật ký công việc): 5 point"
+  ],
+  [
+   "Nhân viên G",
+   "pointTong",
+   "Point tổng: 5"
+  ],
+  [
+   "Nhân viên G",
+   "minMax",
+   "Min–Max của bậc 3: 200–250"
+  ],
+  [
+   "Nhân viên G",
+   "pointVuot",
+   "Point vượt = min(point, Max) − Min, không âm = 0"
+  ],
+  [
+   "Nhân viên G",
+   "thuongVuot",
+   "Thưởng vượt point = 0 × 50000 = 0"
+  ],
+  [
+   "Nhân viên G",
+   "chiSo",
+   "tyLeBaoHanh: mục tiêu 0.033, kết quả 0.0327, %HT 100%, tỷ trọng 40%"
+  ],
+  [
+   "Nhân viên G",
+   "chiSo",
+   "tyLeHaiLong: chưa có số liệu"
+  ],
+  [
+   "Nhân viên G",
+   "chiSo",
+   "doanhThu: mục tiêu 2000000000, kết quả 2100000000, %HT 105%, tỷ trọng 20%"
+  ],
+  [
+   "Nhân viên G",
+   "phuCap",
+   "Phụ cấp: 0"
+  ],
+  [
+   "Nhân viên G",
+   "thuNhap",
+   "Chưa tính: Key metrics: thiếu"
+  ]
+ ],
+ "NhatKyHeThong": [
+  [
+   "Thời điểm",
+   "Mức",
+   "Loại lỗi",
+   "Trường liên quan",
+   "Phạm vi"
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "loi",
+   "TONG_TY_TRONG",
+   "",
+   "km"
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "loi",
+   "TONG_HE_SO",
+   "nguon=baoHanh; khuVuc=hcm",
+   "nguon"
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "loi",
+   "SO_LUONG_SAI",
+   "nguon=baoHanh; khuVuc=HN",
+   "nhapLieu"
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "loi",
+   "MA_HANG_LA",
+   "khuVuc=HN",
+   "nguon"
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "loi",
+   "BAO_CAO_CHUA_PHU_KY",
+   "khuVuc=HCM",
+   "nguon"
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "loi",
+   "TAI_KHOAN_LA",
+   "",
+   "doiSoat"
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "loi",
+   "LOAI_VIEC_LA",
+   "",
+   "qk"
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "loi",
+   "MUC_TIEU_SAI",
+   "chiSo=doanhThu",
+   "km"
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "canhBao",
+   "DONG_THIEU_MA",
+   "khuVuc=HN",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "thongTin",
+   "POINT_DUOI_MIN",
+   "",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "canhBao",
+   "GHI_DE_LUONG",
+   "",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "canhBao",
+   "GHI_DE_LUONG",
+   "",
+   ""
+  ],
+  [
+   "2026-10-14 08:00:00",
+   "thongTin",
+   "POINT_DUOI_MIN",
+   "",
+   ""
+  ]
+ ]
+}

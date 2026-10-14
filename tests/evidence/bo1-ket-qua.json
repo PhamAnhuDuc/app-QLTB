@@ -1,0 +1,291 @@
+{
+  "nhan": "Đề xuất – chờ duyệt",
+  "kyDuDuLieu": true,
+  "chanToanBo": false,
+  "soLoi": 0,
+  "soCanhBao": 8,
+  "loi": [],
+  "canhBao": [
+    {
+      "muc": "canhBao",
+      "ma": "POINT_CAT_TRAN",
+      "thongDiep": "nva1 có point 278.92 vượt Max 150 của bậc 1, phần vượt chỉ tính đến Max"
+    },
+    {
+      "muc": "canhBao",
+      "ma": "POINT_CAT_TRAN",
+      "thongDiep": "nvb2 có point 326.38 vượt Max 300 của bậc 4, phần vượt chỉ tính đến Max"
+    },
+    {
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "thongDiep": "nvc3 có point 17 thấp hơn Min 250, chỉ là thông tin, không trừ vào thu nhập"
+    },
+    {
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "thongDiep": "nvd4 có point 5 thấp hơn Min 250, chỉ là thông tin, không trừ vào thu nhập"
+    },
+    {
+      "muc": "canhBao",
+      "ma": "GHI_DE_LUONG",
+      "thongDiep": "Lương cố định của nve5 đã ghi đè khác giá trị chuẩn của bậc 4"
+    },
+    {
+      "muc": "canhBao",
+      "ma": "GHI_DE_LUONG",
+      "thongDiep": "Lương cố định của nvf6 đã ghi đè khác giá trị chuẩn của bậc 1"
+    },
+    {
+      "muc": "canhBao",
+      "ma": "POINT_CAT_TRAN",
+      "thongDiep": "nvf6 có point 281.54 vượt Max 150 của bậc 1, phần vượt chỉ tính đến Max"
+    },
+    {
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "thongDiep": "nvg7 có point 5 thấp hơn Min 200, chỉ là thông tin, không trừ vào thu nhập"
+    }
+  ],
+  "thanhVien": [
+    {
+      "taiKhoan": "nva1",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "daTinh",
+      "lyDo": [],
+      "pointTong": 278.92,
+      "pointVuot": 30,
+      "diemKM": 1.01,
+      "phanTramThuong": 0.35,
+      "luongCoDinh": 6000000,
+      "thuongKM": 2100000,
+      "thuongVuotPoint": 1500000,
+      "phuCap": 200000,
+      "thuNhap": 9800000
+    },
+    {
+      "taiKhoan": "nvb2",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "daTinh",
+      "lyDo": [],
+      "pointTong": 326.38,
+      "pointVuot": 50,
+      "diemKM": 1.0125,
+      "phanTramThuong": 0.35,
+      "luongCoDinh": 10000000,
+      "thuongKM": 3500000,
+      "thuongVuotPoint": 2500000,
+      "phuCap": 200000,
+      "thuNhap": 16200000
+    },
+    {
+      "taiKhoan": "nvc3",
+      "nhom": "Quản lý kho",
+      "trangThai": "daTinh",
+      "lyDo": [],
+      "pointTong": 17,
+      "pointVuot": 0,
+      "diemKM": 0.979111111,
+      "phanTramThuong": 0.25,
+      "luongCoDinh": 10000000,
+      "thuongKM": 2500000,
+      "thuongVuotPoint": 0,
+      "phuCap": 200000,
+      "thuNhap": 12700000
+    },
+    {
+      "taiKhoan": "nvd4",
+      "nhom": "Quản lý kho",
+      "trangThai": "khongTinh",
+      "lyDo": [
+        "Theo dõi point: không có chỉ số key metrics, không tính thu nhập"
+      ],
+      "pointTong": 5,
+      "pointVuot": 0,
+      "diemKM": null,
+      "phanTramThuong": null,
+      "luongCoDinh": 10000000,
+      "thuongKM": null,
+      "thuongVuotPoint": 0,
+      "phuCap": null,
+      "thuNhap": null
+    },
+    {
+      "taiKhoan": "nve5",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "daTinh",
+      "lyDo": [],
+      "pointTong": 275.26,
+      "pointVuot": 25.26,
+      "diemKM": 1.0125,
+      "phanTramThuong": 0.35,
+      "luongCoDinh": 10800000,
+      "thuongKM": 3779999.9999999995,
+      "thuongVuotPoint": 1263000,
+      "phuCap": 200000,
+      "thuNhap": 16043000
+    },
+    {
+      "taiKhoan": "nvf6",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "daTinh",
+      "lyDo": [],
+      "pointTong": 281.54,
+      "pointVuot": 30,
+      "diemKM": 0.864166667,
+      "phanTramThuong": 0.2,
+      "luongCoDinh": 6600000,
+      "thuongKM": 1320000,
+      "thuongVuotPoint": 1500000,
+      "phuCap": 200000,
+      "thuNhap": 9620000
+    },
+    {
+      "taiKhoan": "nvg7",
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "trangThai": "daTinh",
+      "lyDo": [],
+      "pointTong": 5,
+      "pointVuot": 0,
+      "diemKM": 1.01,
+      "phanTramThuong": 0.35,
+      "luongCoDinh": 8500000,
+      "thuongKM": 2975000,
+      "thuongVuotPoint": 0,
+      "phuCap": 0,
+      "thuNhap": 11475000
+    }
+  ],
+  "tongTheoNhom": [
+    {
+      "nhom": "Đảm bảo an toàn thiết bị",
+      "ghiChu": "cộng của 5/5 người",
+      "thuNhap": 63138000
+    },
+    {
+      "nhom": "Quản lý kho",
+      "ghiChu": "cộng của 1/1 người",
+      "thuNhap": 12700000
+    }
+  ],
+  "tongTeam": {
+    "ghiChu": "cộng của 6/6 người",
+    "thuNhap": 75838000
+  },
+  "doiSoat": [
+    {
+      "nguon": "xuatBanChuyenKho",
+      "khuVuc": "hn",
+      "quy": 237.3,
+      "daChia": 237.3,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "xuatBanChuyenKho",
+      "khuVuc": "hcm",
+      "quy": 203.8,
+      "daChia": 203.8,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "baoHanh",
+      "khuVuc": "hn",
+      "quy": 300,
+      "daChia": 300,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "baoHanh",
+      "khuVuc": "hcm",
+      "quy": 250,
+      "daChia": 250,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "hoTroSale",
+      "khuVuc": "hn",
+      "quy": 68,
+      "daChia": 68,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "hoTroSale",
+      "khuVuc": "hcm",
+      "quy": 102,
+      "daChia": 102,
+      "lech": 0,
+      "dat": true
+    },
+    {
+      "nguon": "quanLyKho",
+      "khuVuc": null,
+      "quy": 28,
+      "daChia": 28,
+      "lech": 0,
+      "dat": true
+    }
+  ],
+  "log": [
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "canhBao",
+      "ma": "POINT_CAT_TRAN",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "canhBao",
+      "ma": "POINT_CAT_TRAN",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "canhBao",
+      "ma": "GHI_DE_LUONG",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "canhBao",
+      "ma": "GHI_DE_LUONG",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "canhBao",
+      "ma": "POINT_CAT_TRAN",
+      "truong": [],
+      "phamVi": null
+    },
+    {
+      "thoiDiem": "2026-10-14T00:00:00.000Z",
+      "muc": "thongTin",
+      "ma": "POINT_DUOI_MIN",
+      "truong": [],
+      "phamVi": null
+    }
+  ]
+}
